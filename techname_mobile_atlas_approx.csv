@@ -1,0 +1,1407 @@
+"model_device","brand","model_name","release_year","release_month","release_price","screensize","detail"
+"iphone os 9",NA,"iphone os 9",NA,NA,"750",NA,NA
+"sm-j700","samsung","galaxy j7",2015,"June","250","5.5","versions: j700f (india, thailand); j700m (latam); j700h with no lte (south africa, pakistan, vietnam)
+also known as samsung galaxy j7 duos with dual-sim card slots"
+"sm-j200","samsung","galaxy j2",2015,"September","150","4.7","versions: j200f (uae, turkey); j200y (new zealand, taiwan); j200g (india, indonesia); j200h with no lte (south africa, kazakhstan); j200gu (philippines, malaysia, thailand)
+also known as samsung galaxy j2 duos with dual-sim card slots"
+"sm-g7102","samsung","galaxy grand 2",2014,"January","180","5.25","versions: samsung galaxy grand 2 g7105 (3g/lte)
+also known as samsung galaxy grand 2 g7102 with dual-sim card slots
+"
+"sm-j710","samsung","galaxy j7 (2016)",2016,"April","270","5.5","versions: j710f, j710fn (emea); j710m (latam); j710h (south africa, pakistan, vietnam)
+also known as samsung galaxy j7 (2016) duos with dual-sim card slots
+asia/china model with 1080p display and 3 gb ram"
+"f1f","oppo","f1",2016,"January","230","5",NA
+"gt-n7100","samsung","galaxy note ii n7100",2012,"September","300","5.5",NA
+"sm-g530","samsung","galaxy grand prime duos tv",2014,"October","150","5","also known as samsung galaxy grand prime duos tv g530bt"
+"sm-a500","samsung","galaxy a5 duos",2014,"November","290","5","versions: a500f/ds, a500g/ds, a500h/ds, a500m/ds, a5000"
+"sm-a700","samsung","galaxy a7 duos",2015,"February","370","5.5","versions: a7000, a7009, a700h, a700yd"
+"sm-n900","samsung","galaxy note 3",2013,"September","420","5.7","versions: n9000 (3g); n9005 (3g/lte)
+also known as samsung galaxy note iii; samsung galaxy note 3 n9002 with dual-sim card slots"
+"asus t00j","asus","zenfone 5 a500cg",2014,"April","130","5",NA
+"sm-n920","samsung","galaxy note5",2015,"August","530","5.7","versions: n920t (t-mobile); n920a (at&t); n920i (australia, new zealand, singapore, canada); n920g
+ (india)"
+"lumia 520","nokia","lumia 520",2013,"April","70","4","versions: nokia lumia 521 rm-917 (t-mobile)"
+"iris700",NA,"iris700",NA,NA,"70",NA,NA
+"smart max 4.0 plus",NA,"smart max 4.0 plus",NA,NA,"70",NA,NA
+"iphone os 8","apple","watch series 2 38mm",2016,"September","650","1.5","- compatible with apple iphone 5 (or newer)"
+"sm-j100","samsung","galaxy j1",2015,"February","110","4.3","versions: samsung j100f, j100fn, j100h, j100h/dd, j100h/ds, j100m, j100mu
+also known as samsung galaxy j1 duos with dual-sim card slots"
+"iris 600",NA,"iris 600",NA,NA,"70",NA,NA
+"smart max 4.0",NA,"smart max 4.0",NA,NA,"70",NA,NA
+"gt-i9500","samsung","i9500 galaxy s4",2013,"April","320","5",NA
+"iphone os 7","apple","ipad pro 9.7",2016,"March","690","9.7","supported lte networks
+versions: apple ipad pro wi-fi + cellular (3g/lte); apple ipad pro wi-fi (wi-fi, w/o gps)"
+"sm-a800","samsung","galaxy a8 (2016)",2016,"October",NA,"5.7","also known as samsung galaxy a8 duos (2016) with dual-sim card slots"
+"sm-g900","samsung","galaxy s5 (usa)",2014,"April","480","5.1","versions: g900v (verizon); g900r4 (us cellular); g900p (sprint)"
+"sm-n910","samsung","galaxy note 4 (usa)",2014,"Q4","550","5.7","versions: n910m (vodafone), n910v (verizon), n910a (at&t), n910t (t-mobile), n910p (sprint), n910r4 (us cellular)"
+"sm-j500","samsung","galaxy j5",2015,"June","160","5","versions: j500fn (europe); j500f (hk, india, south africa, thailand); j500g (malaysia, indonesia); j500y (new zealand); j500m (latam)
+also known as samsung galaxy j5 duos with dual-sim card slots"
+"gt-i8552","samsung","galaxy win i8550",2013,"May","170","4.7","available as samsung galaxy grand quattro; samsung galaxy win duos i8552 with dual-sim card slots"
+"sm-e500","samsung","galaxy e5",2015,"February","240","5","versions: e500f, e500h, e500hq, e500m, e500f/ds, e500h/ds, e500m/ds
+also known as samsung galaxy e5 duos with dual-sim card slots"
+"iris510",NA,"iris510",NA,NA,"70",NA,NA
+"iris708",NA,"iris708",NA,NA,"70",NA,NA
+"smart 4g speedy 4.0 plus",NA,"smart 4g speedy 4.0 plus",NA,NA,"70",NA,NA
+"gt-i9082","samsung","galaxy grand i9082",2013,"January","180","5","also known as samsung galaxy grand z i9082z for india"
+"sm-g360","samsung","galaxy core prime",2014,"November","150","4.5","available as samsung galaxy core prime value edition g361 with android v5.1
+also known as samsung galaxy win 2 duos tv g360bt for brazil; samsung galaxy core prime duos with dual-sim card slots"
+"sm-a710","samsung","galaxy a7 (2016)",2015,"December","460","5.5","versions: a710f (europe); a710m (latin america); a710fd (southeast asia); a7100 (hong kong); a710y (taiwan)
+also known as samsung galaxy a7 (2016) duos with dual-sim card slots"
+"sm-a510","samsung","galaxy a5 (2016)",2015,"December","300","5.2","versions: a510f (europe); a510m (latin america); a510fd (southeast asia); a5100 (hong kong); a510y (taiwan)
+also known as samsung galaxy a5 (2016) duos with dual-sim card slots"
+"a33w","oppo","u701 ulike",2012,"June","80","4",NA
+"iris 550","lava","iris 550q",2014,"April","150","5.5",NA
+"sm-n9005","samsung","galaxy note 3",2013,"September","420","5.7","versions: n9000 (3g); n9005 (3g/lte)
+also known as samsung galaxy note iii; samsung galaxy note 3 n9002 with dual-sim card slots"
+"lumia 435 dual sim","microsoft","lumia 435 dual sim",2015,"February","70","4",NA
+"true smart 5.0 slim",NA,"true smart 5.0 slim",NA,NA,"70",NA,NA
+"lumia 630","nokia","lumia 630",2014,"May","110","4.5","also known as nokia lumia 630 3g"
+"gt-n5100","samsung","galaxy note 8.0",2013,"April","320","8","tablet with support for gsm voice communication, sms, and mms
+also known as samsung galaxy note 510, samsung galaxy note 8 3g & wifi, samsung galaxy note 8.0 lte"
+"iris360","lava","iris 360 music",2014,"August","70","3.5",NA
+"lumia 625","nokia","lumia 625",2013,"August","160","4.7",NA
+"iris800",NA,"iris800",NA,NA,"70",NA,NA
+"lumia 640 lte","microsoft","lumia 640 lte dual sim",2015,"April","150","5",NA
+"dtac phone joey jet 2",NA,"dtac phone joey jet 2",NA,NA,"70",NA,NA
+"lenovo a2010","lenovo","a2010",2015,"September","70","4.5",NA
+"lumia 920","nokia","lumia 920",2012,"November","210","4.5",NA
+"asus z010d","asus","zenfone max zc550kl (2016)",2016,"May","170","5.5","also known as asus zenfone max zc550kl-6a076in"
+"iris 810",NA,"iris 810",NA,NA,"70",NA,NA
+"1201","samsung","d880 duos",2007,"December","150","2.3",NA
+"iris 870",NA,"iris 870",NA,NA,"70",NA,NA
+"star","samsung","galaxy star s5280",2013,"May","70","3","available as samsung galaxy star duos s5282 with dual-sim card slots"
+"a11w","oppo","a53",2015,"December","240","5.5",NA
+"lenovo a7000-a","lenovo","vibe k4 note",2016,"January","190","5.5","also known as: lenovo k4 note a7010a48, a7010, lenovo vibe x3 lite"
+"sm-g925","samsung","galaxy s6 edge",2015,"April","470","5.1","also known as samsung galaxy s6 edge g925
+versions: g9250 (china, hk), g925a (at&t), g925f (global), g925fq (turkey), g925i (latam, singapore, india, australia), g925k (korea), g925l, g925s (korea), g925t (t-mobile)"
+"sm-e700","samsung","galaxy e7",2015,"February","270","5.5","versions: e7000, e7009, e700f, e700f/ds, e700h, e700h/dd, e700h/ds, e700m, e700m/ds
+also known as samsung galaxy e7 duos with dual-sim card slots"
+"lenny2",NA,"lenny2",NA,NA,NA,NA,NA
+"sm-g935","samsung","galaxy s7 edge",2016,"March","620","5.5","versions: g935 (usa); g935f (global); g935fd (southeast asia)
+also known as samsung galaxy s7 edge duos with dual-sim card slots "
+"smart 4g speedy 5.0 plus",NA,"smart 4g speedy 5.0 plus",NA,NA,"70",NA,NA
+"sm-t116","samsung","i710",2007,"February","110","2.8","- samsung i718 - chinese version"
+"computer",NA,"computer",NA,NA,NA,NA,NA
+"lumia 720","nokia","lumia 720",2013,"April","200","4.3","also known as nokia 720 rm-885"
+"lumia 630 dual sim","nokia","asha 308",2012,"October","70","3","also known as nokia asha 3080, nokia asha 308 dual sim, nokia asha charme 308"
+"lumia 1320","nokia","lumia 1320",2014,"January","210","6","rm-994 - global version
+rm-995 - lta version
+rm-996 version with hsdpa (21 mbps), hsupa (5.76 mbps)"
+"i-mobile iq big2",NA,"i-mobile iq big2",NA,NA,"100",NA,NA
+"a51f","oppo","u705t ulike 2",2012,"December","280","4.5",NA
+"iris500",NA,"iris500",NA,NA,"70",NA,NA
+"x9006","oppo","find 7a",2014,"March","370","5.5","also known as oppo find 7 fullhd, oppo find 7 fhd"
+"sm-g355","samsung","galaxy core ii",2014,"July","130","4.5","also known as samsung galaxy core ii dual sim g355h
+samsung galaxy core 2 dual sim"
+"gt-s7582","samsung","galaxy s duos 2 s7582",2013,"December","130","4","also known as samsung galaxy trend plus s7580 with single-sim card slot"
+"grand","blu","grand 5.5 hd",2016,"July",NA,"5.5",NA
+"gt-i9152","samsung","galaxy mega 5.8 i9150",2013,"May","280","5.8","available as samsung galaxy mega duos i9152 with dual-sim card slots"
+"lumia 730 dual sim","nokia","lumia 730 dual sim",2014,"September","170","4.7","also known as nokia lumia 730 dual sim rm-1040"
+"n5111","oppo","n1 mini",2014,"August","330","5",NA
+"iris 750",NA,"iris 750",NA,NA,"70",NA,NA
+"sm-j510","samsung","galaxy j5 (2016)",2016,"April","250","5.2","versions: j510fn (europe); j510f (hk, india, south africa, thailand); j510g (malaysia, indonesia); j510y (new zealand); j510m (latam)
+also known as samsung galaxy j5 duos (2016) with dual-sim card slots"
+"vivo v3",NA,"vivo v3",NA,NA,NA,NA,NA
+"smart 4g speedy 4inch",NA,"smart 4g speedy 4inch",NA,NA,"70",NA,NA
+"r2001","oppo","r2001 yoyo",2014,"May","200","4.7",NA
+"asus z00ad","asus","zenfone 2 deluxe ze551ml",2015,"September","500","5.5","also known as asus zenfone 2 deluxe special edition"
+"asus z00ld","asus","zenfone 2 laser ze550kl",2015,"September","220","5.5",NA
+"asus z00ed","asus","zenfone 2 laser ze500kl",2015,"August","210","5",NA
+"lumia 540 dual sim","microsoft","lumia 540 dual sim",2015,"May","100","5",NA
+"iris353",NA,"iris353",NA,NA,"70",NA,NA
+"lava a1",NA,"lava a1",NA,NA,"70",NA,NA
+"lenovo p1ma40","lenovo","vibe p1m",2015,"October","110","5",NA
+"lenny3",NA,"lenny3",NA,NA,NA,NA,NA
+"vivo v3max",NA,"vivo v3max",NA,NA,NA,NA,NA
+"lumia 930","nokia","lumia 930",2014,"July","370","5",NA
+"vivo y35",NA,"vivo y35",NA,NA,NA,NA,NA
+"lumia 535 dual sim","microsoft","lumia 535 dual sim",2014,"December","80","5",NA
+"i-mobile i-style 8.3 dtv",NA,"i-mobile i-style 8.3 dtv",NA,NA,"100",NA,NA
+"vivo y51",NA,"vivo y51",NA,NA,NA,NA,NA
+"lenovo a6000-l","lenovo","vibe k5 plus",2016,"April","140","5","also known as lenovo a6020a46, lenovo lemon 3"
+"lumia 530 dual sim","nokia","asha 308",2012,"October","70","3","also known as nokia asha 3080, nokia asha 308 dual sim, nokia asha charme 308"
+"sm-g313","samsung","galaxy ace 4 lte g313",2014,"August","250","4","also known as samsung galaxy ace 4 lte g313f"
+"sm-a910","samsung","galaxy a9 (2016)",2016,"January","550","6","also known as samsung galaxy a9 (2016) duos with dual-sim card slots"
+"vivo y28",NA,"vivo y28",NA,NA,NA,NA,NA
+"r7kf","oppo","r7 lite",2015,"October","250","5",NA
+"smart 3.5'' touch+",NA,"smart 3.5'' touch+",NA,NA,"70",NA,NA
+"i-style 8.5",NA,"i-style 8.5",NA,NA,"100",NA,NA
+"sm-g920","samsung","galaxy s6",2015,"April","410","5.1","curved screen version available - samsung galaxy s6 edge
+versions: g9200 (hong kong), g9208 (china), g9208/ss (china), g9209 (china), g920a (at&t), g920f (global), g920fd (pakistan, philippines), g920i (latam, singapore, india, australia), g920s (korea), g920t (t-mobile)"
+"x9009","oppo","joy plus",2015,"May","100","4",NA
+"asus z008d","asus","zenfone 2 ze550ml",2015,"March","250","5.5",NA
+"vivo y31l",NA,"vivo y31l",NA,NA,NA,NA,NA
+"vivo y21",NA,"vivo y21",NA,NA,NA,NA,NA
+"gt-i9300","samsung","i9300i galaxy s3 neo",2014,"April","300","4.8","versions:
+samsung siii neo+ i9300i
+samsung gt-i9300rwi with no nfc connectivity"
+"lumia 620","nokia","lumia 620",2013,"January","120","3.8",NA
+"vivo y37",NA,"vivo y37",NA,NA,NA,NA,NA
+"lumia 925","nokia","lumia 925",2013,"June","260","4.5",NA
+"asus z00vd","asus","zenfone go zc500tg",2015,"August","130","5",NA
+"sm-t231","samsung","galaxy tab 4 7.0 3g",2014,"May","240","7","tablet with support for gsm voice communication, sms, and mms
+also known as samsung t231, galaxy tab4 7.0 3g"
+"lumia 1520","nokia","lumia 1520",2013,"November","350","6","rm-937 - global version
+rm-938 - us version
+rm-939 - wcdma hspa+ version
+rm-940 - at&t version"
+"true smart 4.0",NA,"true smart 4.0",NA,NA,"70",NA,NA
+"r1001","oppo","r1001 joy",2014,"May","100","4",NA
+"r831k","oppo","a53",2015,"December","240","5.5",NA
+"asus t00q","asus","zenfone 4 a450cg",2014,"July","100","4.5",NA
+"sm-g928","samsung","galaxy s6 edge+",2015,"August","500","5.7","versions: g928f (europe); g928g (india); g928t (t-mobile); g928a (at&t); g928i (australia, new zealand, singapore)"
+"gt-i9200","samsung","galaxy mega 6.3 i9200",2013,"June","300","6.3","also known as samsung sgh-i527 for at&t"
+"asus z00ud","asus","zenfone selfie zd551kl",2015,"August","280","5.5",NA
+"lumia 820","nokia","lumia 820",2012,"November","170","4.3",NA
+"smart 4g speedy 5inch",NA,"smart 4g speedy 5inch",NA,NA,"70",NA,NA
+"kii-l22","huawei","y6 pro",2015,"October","280","5","also known as honor play 5x, enjoy 5"
+"smart 4g plus",NA,"smart 4g plus",NA,NA,"70",NA,NA
+"pulp",NA,"pulp",NA,NA,NA,NA,NA
+"sm-j105","samsung","galaxy j1 nxt",2016,"February","90","4","also known as samsung galaxy j1 mini (2016)"
+"a1601","oppo","f1s",2016,"August","300","5.5",NA
+"iris 755",NA,"iris 755",NA,NA,"70",NA,NA
+"vivo y15",NA,"vivo y15",NA,NA,NA,NA,NA
+"smart 3.5'' touch",NA,"smart 3.5'' touch",NA,NA,"70",NA,NA
+"rob",NA,"rob",NA,NA,NA,NA,NA
+"zte blade l110",NA,"zte blade l110",NA,NA,"70",NA,NA
+"asus z002","asus","zenfone 6 a600cg",2014,"May","250","6",NA
+"k012","asus","p735",2007,"January","370","2.8",NA
+"r8106","oppo","r5s",2015,"August","200","5.2",NA
+"r7sf","oppo","r7s",2015,"December","370","5.5",NA
+"lumia 640 xl dual sim","microsoft","lumia 640 xl dual sim",2015,"April","170","5.7",NA
+"a37f","oppo","a37",2016,"June","220","5",NA
+"pulp fab 4g",NA,"pulp fab 4g",NA,NA,NA,NA,NA
+"a33f","oppo","a33",2015,"November","240","5",NA
+"vivo y31",NA,"vivo y31",NA,NA,NA,NA,NA
+"sm-g850","samsung","galaxy alpha (s801)",2014,"September","450","4.7","versions:
+g850a for at&t
+g850w for canada
+g8508s for east & southeast asia"
+"gt-s7270","samsung","galaxy ace 3",2013,"July","130","4","also known as samsung galaxy ace 3 3g s7270; samsung galaxy ace 3 lte s7275; samsung galaxy ace 3 s7272 duos with dual-sim card slots"
+"i-mobile i-style 220",NA,"i-mobile i-style 220",NA,NA,"100",NA,NA
+"lumia 630 like","nokia","6300",2007,"January","70","2",NA
+"smart 4g 5.5 enterprise",NA,"smart 4g 5.5 enterprise",NA,NA,"70",NA,NA
+"r829","oppo","r1 r829t",2013,"December","300","5",NA
+"vivo y27",NA,"vivo y27",NA,NA,NA,NA,NA
+"true smart 3.5",NA,"true smart 3.5",NA,NA,"70",NA,NA
+"1206",NA,"1206",NA,NA,NA,NA,NA
+"vivo x5pro",NA,"vivo x5pro",NA,NA,NA,NA,NA
+"i-mobile iq 6.8 dtv",NA,"i-mobile iq 6.8 dtv",NA,NA,"100",NA,NA
+"sm-g361","samsung","galaxy core prime",2014,"November","150","4.5","available as samsung galaxy core prime value edition g361 with android v5.1
+also known as samsung galaxy win 2 duos tv g360bt for brazil; samsung galaxy core prime duos with dual-sim card slots"
+"i-mobile i-style 810",NA,"i-mobile i-style 810",NA,NA,"100",NA,NA
+"t1 7.0","huawei","mediapad t1 7.0",2015,"March","100","7",NA
+"sm-g318","samsung","galaxy v plus",2015,"July","70","4","also known as samsung galaxy v+ g318"
+"i-mobile iq 5.7",NA,"i-mobile iq 5.7",NA,NA,"100",NA,NA
+"sm-g750","samsung","galaxy mega 2",2014,"September","340","6","also known as samsung galaxy mega 2 lte
+samsung galaxy mega 2 g750f
+samsung galaxy mega 2 g7508
+samsung galaxy mega 2 duos g7508q for china with dual-sim card slots"
+"z520","acer","liquid z520",2015,"April","130","5",NA
+"sm-j120","samsung","galaxy j1 (2016)",2016,"January","130","4.5","versions: j120f (global); galaxy express 3 j120a (at&t); j120h, j120m, j120m, j120t
+also known as samsung galaxy j1 (2016) duos with dual-sim card slots"
+"k01n","asus","fonepad 7 fe171cg",2015,"January","160","7","tablet with support for gsm voice communication, sms, and mms"
+"ale-l02","huawei","honor 6",2014,"August","290","5","versions:
+- h60-l01 tdd lte (single sim)
+- h60-l02 fdd&tdd lte, hsdpa
+- h60-l04 fdd&tdd lte, hsdpa (single sim)
+- h60-l12 fdd lte, hsdpa, nfc
+- h60-l12 fdd lte, nfc"
+"vivo xshot",NA,"vivo xshot",NA,NA,NA,NA,NA
+"i-mobile i-style 218",NA,"i-mobile i-style 218",NA,NA,"100",NA,NA
+"sm-t285","samsung","galaxy tab a 7.0 (2016)",2016,"March","150","7","versions: t280 (wi-fi only); t285 (4g/wi-fi)"
+"sm-t211","samsung","d900i",2007,NA,"90","2.1",NA
+"sm-t111","samsung","galaxy tab 3 lite 7.0 3g",2014,"February","190","7","tablet with support for gsm voice communication, sms, and mms
+also known as samsung t111"
+"r827","oppo","find 5 mini",2014,"January","240","4.7","also known as oppo find 5 mini r827"
+"sm-g930","samsung","galaxy s7",2016,"March","580","5.1","versions: g930 (usa); g930f (global); g930fd (southeast asia)
+also known as samsung galaxy s7 duos with dual-sim card slots"
+"lenovo a7010a48","lenovo","vibe k4 note",2016,"January","190","5.5","also known as: lenovo k4 note a7010a48, a7010, lenovo vibe x3 lite"
+"asus z007","asus","zenfone c zc451cg",2015,"February","90","4.5",NA
+"zte blade d6 lite 3g",NA,"zte blade d6 lite 3g",NA,NA,"70",NA,NA
+"asus t00i","asus","fonepad",2013,"April","260","7","also available with a 1.6 ghz intel atom z2460 processor and 32 gb of built-in storage"
+"zte v831w",NA,"zte v831w",NA,NA,"70",NA,NA
+"i-mobile i-style 219",NA,"i-mobile i-style 219",NA,NA,"100",NA,NA
+"3006","oppo","a53",2015,"December","240","5.5",NA
+"ridge",NA,"ridge",NA,NA,NA,NA,NA
+"lenovo a536","lenovo","a536",2014,"Q3","100","5",NA
+"asus x013d","asus","zenfone go zb551kl",2016,"May",NA,"5.5",NA
+"r815","oppo","r815t clover",2013,"April","100","4.3",NA
+"x9076","oppo","u701 ulike",2012,"June","80","4",NA
+"lumia 640 xl lte","microsoft","lumia 640 xl lte",2015,"April","200","5.7",NA
+"nokia xl","nokia","xl",2014,"May","100","5","also known as nokia xl dual sim rm-1030/rm-1042 with dual-sim card slots"
+"p01y",NA,"p01y",NA,NA,NA,NA,NA
+"i-mobile i-style 711",NA,"i-mobile i-style 711",NA,NA,"100",NA,NA
+"909","nokia","lumia 1020",2013,"July","400","4.5","also known as nokia eos, nokia 909, nokia rm-875, nokia rm-877, nokia rm-876"
+"zte c310",NA,"zte c310",NA,NA,"70",NA,NA
+"lg  d802","lg","g2",2013,"September","270","5.2","versions: d800 (at&t); d802 (europe); d801 (t-mobile); d802ta (australia); d803 (canada); vs980 (verizon); ls980 (sprint)"
+"gt-p3100","samsung","galaxy tab 2 7.0 p3100",2012,"April","150","7","tablet with support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 2 (7.0)"
+"lenovo a5000","lenovo","a5000",2015,"April","150","5",NA
+"sm-n7502","samsung","galaxy note 3 neo duos",2014,"February","410","5.5","also known as: 
+- samsung galaxy note 3 neo dual sim n7502"
+"lenovo a680 row","lenovo","a680",2014,"May","110","5",NA
+"r7plusf","oppo","joy plus",2015,"May","100","4",NA
+"r821","oppo","r821t find muse",2013,NA,"290","4",NA
+"vivo x5",NA,"vivo x5",NA,NA,NA,NA,NA
+"y625-u43",NA,"y625-u43",NA,NA,NA,NA,NA
+"smart 4g hd voice",NA,"smart 4g hd voice",NA,NA,"70",NA,NA
+"iq 5.6",NA,"iq 5.6",NA,NA,NA,NA,NA
+"iris 515",NA,"iris 515",NA,NA,"70",NA,NA
+"smart tab 4g speedy 7.0",NA,"smart tab 4g speedy 7.0",NA,NA,"70",NA,NA
+"n5206","oppo","n3",2015,"January","550","5.5",NA
+"vivo y22",NA,"vivo y22",NA,NA,NA,NA,NA
+"t03","dell","streak 10 pro",2011,NA,"280","10.1","also known as dell t03g"
+"t02","acer","liquid z530",2015,"October","150","5",NA
+"lava a2",NA,"lava a2",NA,NA,"70",NA,NA
+"zte blade q3",NA,"zte blade q3",NA,NA,"70",NA,NA
+"d6503","sony","xperia z2 tablet wi-fi",2014,"March","360","10.1","- sgp511 - 16 gb
+- sgp512 - 32 gb"
+"gt-i8262","samsung","galaxy core i8260",2013,"June","160","4.3","available as samsung galaxy core i8262 duos with dual-sim card slots"
+"i-mobile iq x leon",NA,"i-mobile iq x leon",NA,NA,"100",NA,NA
+"i-mobile iq ii",NA,"i-mobile iq ii",NA,NA,"100",NA,NA
+"eva-l19","huawei","p9",2016,"April","440","5.2","versions: eva-l09 (single sim); eva-l19, eva-l29 (dual sim)"
+"rainbow",NA,"rainbow",NA,NA,NA,NA,NA
+"iphone os 10",NA,"iphone os 10",NA,NA,"750",NA,NA
+"asus x013da","asus","zenfone go zb551kl",2016,"May",NA,"5.5",NA
+"u707","oppo","find",2012,"July","100","4.3",NA
+"rio-l02","huawei","g8",2015,"October","340","5.5","also known as huawei gx8"
+"iris560",NA,"iris560",NA,NA,"70",NA,NA
+"i-mobile iq 5.3",NA,"i-mobile iq 5.3",NA,NA,"100",NA,NA
+"iris 505","lava","iris 505",2013,"August","100","5",NA
+"i-mobile iq x zeen",NA,"i-mobile iq x zeen",NA,NA,"100",NA,NA
+"i-mobile iq 9.2",NA,"i-mobile iq 9.2",NA,NA,"100",NA,NA
+"r8006",NA,"r8006",NA,NA,NA,NA,NA
+"nokia x","nokia","x",2014,"March","100","4","also known as nokia normandy, nokia a110, nokia x dual sim rm-980 with dual-sim card slots"
+"zte blade l3 apex",NA,"zte blade l3 apex",NA,NA,"70",NA,NA
+"z150","acer","liquid z5",2014,"January","170","5","also known as acer liquid z5 duo"
+"gt-s7562","samsung","galaxy s duos s7562",2012,"September","110","4",NA
+"i-style 7.6",NA,"i-style 7.6",NA,NA,"100",NA,NA
+"i-mobile i-style 710",NA,"i-mobile i-style 710",NA,NA,"100",NA,NA
+"zte t660",NA,"zte t660",NA,NA,"70",NA,NA
+"ridge fab 4g",NA,"ridge fab 4g",NA,NA,NA,NA,NA
+"c6902","sony","xperia z1",2013,"September","330","5","also known as sony xperia z1 honami, sony xperia z1 c6902/l39h, sony xperia z1 c6903, sony xperia z1 c6906, sony xperia z1 c6943"
+"i-mobile i-style 811",NA,"i-mobile i-style 811",NA,NA,"100",NA,NA
+"r831l","oppo","u705t ulike 2",2012,"December","280","4.5",NA
+"i-mobile iq5.9 dtv",NA,"i-mobile iq5.9 dtv",NA,NA,"100",NA,NA
+"r831","oppo","neo",2014,"Q1","160","4.5",NA
+"i-mobile i-style 8.6 dtv",NA,"i-mobile i-style 8.6 dtv",NA,NA,"100",NA,NA
+"i-mobile iq big",NA,"i-mobile iq big",NA,NA,"100",NA,NA
+"lg  d690","lg","g3 stylus",2014,"October","240","5.5","also known as lg g3 stylus d690n, lg d690"
+"htc desire 816","htc","desire 816 dual sim",2014,"May","250","5.5",NA
+"sm-n915","samsung","galaxy note edge",2014,"November","650","5.6","versions: n915fy (europe), n915a (at&t), n915t (t-mobile), n915k/n915l/n915s (korea), n915g (singapore, australia, spain), n915d (japan)"
+"lumia 520 like","nokia","lumia 1520",2013,"November","350","6","rm-937 - global version
+rm-938 - us version
+rm-939 - wcdma hspa+ version
+rm-940 - at&t version"
+"lg  d855","lg","g3",2014,"June","300","5.5","versions: d855 (europe); d850 (at&t); d851 (t-mobile); d852 (canada)"
+"d6653","sony","xperia z3v",2014,"October","370","5.2","for verizon
+also known as sony xperia z3v d6708"
+"asus x014d","asus","zenfone go zb452kg",2016,"April",NA,"4.5",NA
+"sm-c111","samsung","galaxy k zoom",2014,"June","440","4.8","versions:
+samsung galaxy k zoom 3g c111 with 3g; samsung galaxy k zoom lte c115 with 3g & lte
+also known as samsung galaxy s5 zoom"
+"i-mobile iq x3",NA,"i-mobile iq x3",NA,NA,"100",NA,NA
+"gt-i9190","samsung","i9190 galaxy s4 mini",2013,"July","230","4.3","also known as samsung i9190 galaxy s iv mini; samsung i9190 galaxy s4 mini duos with dual-sim card slots"
+"vns-l22","huawei","mediapad 7 lite",2012,"September","150","7","tablet with support for gsm voice communication, sms, and mms"
+"lenovo a2020a40","lenovo","a2010",2015,"September","70","4.5",NA
+"iris456",NA,"iris456",NA,NA,"70",NA,NA
+"alcatel 7049d","alcatel","ot-e230",2007,"February",NA,"1.3",NA
+"redmi note 3",NA,"redmi note 3",NA,NA,NA,NA,NA
+"lenovo a328","lenovo","a328",2014,"Q3","90","4.5",NA
+"cun-l22","huawei","y5ii",2016,"June",NA,"5","also known as huawei y5 2, huawei honor 5, huawei honor play 5, huawei honor 5 play"
+"nxt-l29","huawei","t208",2008,NA,NA,"1.5",NA
+"lenovo pb1-770m","lenovo","a850+",2014,"April","160","5.5","also known as lenovo a850 plus"
+"a559","lenovo","a859",2014,"April","140","5",NA
+"i-mobile iq 9",NA,"i-mobile iq 9",NA,NA,"100",NA,NA
+"smart tab gen me",NA,"smart tab gen me",NA,NA,"70",NA,NA
+"i-mobile iq5.1 pro",NA,"i-mobile iq5.1 pro",NA,NA,"100",NA,NA
+"i-mobile i-style 217",NA,"i-mobile i-style 217",NA,NA,"100",NA,NA
+"iris405+",NA,"iris405+",NA,NA,"70",NA,NA
+"p01v","asus","zenpad 7.0 z370cg",2015,"August","160","7",NA
+"y3","huawei","y3ii",2016,"June",NA,"4.5","also known as huawei y3 2"
+"z130","samsung","z1",2015,"January","80","4","also known as samsung z1 z130h, z130h/ds"
+"z00d","asus","zenfone 2 ze500cl",2015,"March","180","5",NA
+"asus z011d",NA,"asus z011d",NA,NA,NA,NA,NA
+"e5553","sony","xperia c5 ultra",2015,"August","390","6","also known as sony xperia c5 e5553, e5506"
+"i-mobile iq xpro",NA,"i-mobile iq xpro",NA,NA,"100",NA,NA
+"e5653","sony","xperia m5",2015,"September","460","5","also known as sony xperia m5 e5603, e5606, e5653"
+"c6602","sony","xperia z",2013,"February","270","5","also known as sony xperia c6603, sony xperia c6602, sony xperia z lte, sony xperia z hspa+"
+"lenovo z90a40","lenovo","vibe shot",2015,"June","300","5","also known as lenovo z90-7, lenovo vibe max"
+"lenovo s90-a","lenovo","s90 sisley",2014,"November","260","5","also known as lenovo s90t sisley for china"
+"lumia 530 dual sim like",NA,"lumia 530 dual sim like",NA,NA,NA,NA,NA
+"htc one m8","htc","one (m8) cdma",2014,"March","440","5","also known as htc m8, all new htc one"
+"vie-l29","huawei","p9 plus",2016,"May","600","5.5","versions: vie-l09 (single sim); vie-l29 (dual sim)"
+"i-mobile i-style 210",NA,"i-mobile i-style 210",NA,NA,"100",NA,NA
+"smart 4g 5.0",NA,"smart 4g 5.0",NA,NA,"70",NA,NA
+"lenovo x3a40","lenovo","vibe x3",2015,"December","400","5.5",NA
+"zte v815w",NA,"zte v815w",NA,NA,"70",NA,NA
+"h30-u10","huawei","honor 3c 4g",2014,"June","200","5","also known as huawei honor 3c lte"
+"lumia 920 like","nokia","lumia 920",2012,"November","210","4.5",NA
+"lg  h818","lg","g4 dual",2015,"May","380","5.5","also known as lg g4 dual-lte, lg g4 dual-sim, lg h818p (indonesia, ukraine, thailand), lg h818n (hong kong)"
+"lenovo a7020a48","lenovo","vibe k4 note",2016,"January","190","5.5","also known as: lenovo k4 note a7010a48, a7010, lenovo vibe x3 lite"
+"lenovo s60-a","lenovo","s60",2015,"March","280","5","available as lenovo s60-t for china"
+"gra-ul00","huawei","p8max",2015,"July","500","6.8",NA
+"asus t00n","asus","transformer tf101",2011,"April","280","10.1","tablet with no support for gsm voice communication, sms, and mms."
+"i-mobile iq6.3",NA,"i-mobile iq6.3",NA,NA,"100",NA,NA
+"e6853","sony","xperia x premium",2015,"Q3",NA,"5.5","unofficial preliminary specifications. product image for illustrative purposes."
+"lenovo p70-a","lenovo","p70",2015,"February","240","5",NA
+"i-mobile iq z",NA,"i-mobile iq z",NA,NA,"100",NA,NA
+"r819","oppo","r819",2013,"September","250","4.7",NA
+"i-mobile iq6.6",NA,"i-mobile iq6.6",NA,NA,"100",NA,NA
+"blade s6 lite",NA,"blade s6 lite",NA,NA,"70",NA,NA
+"k019","asus","fonepad 7 fe375cg",2014,"Q3","210","7",NA
+"asus z00rd","asus","zenfone 2 laser ze500kg",2015,"October","200","5",NA
+"iphone os 6","apple","iphone 6 plus",2014,"September","700","5.5",NA
+"nokiax2ds","nokia","x2 dual sim",2014,"July","90","4.3","also known as nokia x2 rm-1013, nokia x2ds"
+"zte v830w",NA,"zte v830w",NA,NA,"70",NA,NA
+"true smart 7.0 quadcore",NA,"true smart 7.0 quadcore",NA,NA,"70",NA,NA
+"nexus 5","lg","nexus 5x",2015,"October","270","5.2",NA
+"iris354","lava","3g 354",2014,"May","70","3.5",NA
+"b1-723",NA,"b1-723",NA,NA,NA,NA,NA
+"infinite ii",NA,"infinite ii",NA,NA,NA,NA,NA
+"lenovo a859","lenovo","a859",2014,"April","140","5",NA
+"chc-u23","huawei","honor 4c",2015,"April","170","5","also known as huawei g play mini"
+"a1-713",NA,"a1-713",NA,NA,NA,NA,NA
+"lenovo a369i","lenovo","a369i",2013,"Q3","70","4",NA
+"lenovo a6000","lenovo","a6000 plus",2015,"April","110","5","also known as lenovo a6000+"
+"i553",NA,"i553",NA,NA,NA,NA,NA
+"true beyond 3g",NA,"true beyond 3g",NA,NA,"70",NA,NA
+"z500","asus","zenpad 3s 10 z500m",2016,"August",NA,"9.7","this is not a gsm device, it will not work on any gsm network worldwide."
+"zte blade d6 lite 4g",NA,"zte blade d6 lite 4g",NA,NA,"70",NA,NA
+"u feel",NA,"u feel",NA,NA,NA,NA,NA
+"i-mobile iq 6.9 dtv",NA,"i-mobile iq 6.9 dtv",NA,NA,"100",NA,NA
+"fl02","alcatel","flash plus",2015,"May","130","5.5",NA
+"feature phone",NA,"feature phone",NA,NA,NA,NA,NA
+"scl-u23","huawei","ascend y600",2014,"June","100","5",NA
+"asus t00p","asus","zenfone 5 a500kl",2014,"July","210","5",NA
+"d5303","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"i-mobile iq x lucus",NA,"i-mobile iq x lucus",NA,NA,"100",NA,NA
+"i-mobile iq 5.5",NA,"i-mobile iq 5.5",NA,NA,"100",NA,NA
+"i-mobile i-tab fun 7008",NA,"i-mobile i-tab fun 7008",NA,NA,"100",NA,NA
+"gt-i9100","samsung","galaxy s ii 4g i9100m",2011,"July","260","4.3","for virgin mobile and bell in canada"
+"e6653","sony","xperia z5 compact",2015,"October","410","4.6",NA
+"gem-702l","huawei","u8500 ideos x2",2010,"3Q","90","3.2",NA
+"c2305","sony","xperia c",2013,"July","220","5","also known as sony xperia c hspa+ c2305"
+"i-mobile i-style 221",NA,"i-mobile i-style 221",NA,NA,"100",NA,NA
+"c6603","sony","xperia z",2013,"February","270","5","also known as sony xperia c6603, sony xperia c6602, sony xperia z lte, sony xperia z hspa+"
+"vivo xplay3s",NA,"vivo xplay3s",NA,NA,NA,NA,NA
+"iq9.1",NA,"iq9.1",NA,NA,NA,NA,NA
+"z205","acer","liquid z200",2014,"September","90","4","available as acer liquid z200 duo with dual-sim card slots"
+"htc desire eye","htc","desire eye",2014,"November","380","5.2",NA
+"sm-g316","samsung","z360",2008,NA,NA,"2.1",NA
+"lg  d335","lg","l bello",2014,"September","100","5","versions:
+lg d331 with single-sim
+lg d335 with dual-sim"
+"zte v816w",NA,"zte v816w",NA,NA,"70",NA,NA
+"fever",NA,"fever",NA,NA,NA,NA,NA
+"t06","acer","liquid zest plus",2016,"July","200","5.5","also known as acer liquid zest plus z628"
+"gxq6580 we l",NA,"gxq6580 we l",NA,NA,NA,NA,NA
+"htc desire 820s dual sim","htc","desire 820s dual sim",2015,"March","370","5.5",NA
+"lenovo s850","lenovo","s856",2014,"October","210","5.5",NA
+"zte blade v0720",NA,"zte blade v0720",NA,NA,"70",NA,NA
+"gt-i8190","samsung","i8190 galaxy s iii mini",2012,"November","130","4","also known as samsung i8190 galaxy s3 mini, samsung galaxy s iii more
+available as samsung i8190n galaxy s iii mini with nfc"
+"bloom",NA,"bloom",NA,NA,NA,NA,NA
+"vivo x5max",NA,"vivo x5max",NA,NA,NA,NA,NA
+"gt-n7000","samsung","galaxy note n7000",2011,"October","270","5.3","also known as samsung gt-n7000, samsung i9220"
+"i-mobile iq 5.8 dtv",NA,"i-mobile iq 5.8 dtv",NA,NA,"100",NA,NA
+"i-mobile iq1.2",NA,"i-mobile iq1.2",NA,NA,"100",NA,NA
+"n17","nokia","e71",2008,"July","110","2.36","- nokia e71x for at&t"
+"lenovo k910l","lenovo","vibe z k910",2013,"November","480","5.5",NA
+"dtac phone m1",NA,"dtac phone m1",NA,NA,"70",NA,NA
+"r1011","oppo","joy plus",2015,"May","100","4",NA
+"sm-t311","samsung","galaxy tab 3 8.0",2013,"July","270","8","tablet with support for gsm voice communication, sms, and mms (t311/t315)
+tablet with no support for gsm voice communication, sms, and mms (t310)
+also known as:
+samsung galaxy tab 3 8.0 wi-fi
+samsung galaxy tab 3 8.0 3g
+samsung galaxy tab 3 8.0 lte"
+"asus t00g","asus","zenfone 6 a600cg",2014,"May","250","6",NA
+"lenovo a3000-h","lenovo","ideatab a3000",2013,"May","180","7",NA
+"htc one","htc","one e9+",2015,"May","320","5.5","also known as htc one e9 plus (a55)
+"
+"vivo x3s",NA,"vivo x3s",NA,NA,NA,NA,NA
+"zte v779m",NA,"zte v779m",NA,NA,"70",NA,NA
+"i-mobile iq xpro 3",NA,"i-mobile iq xpro 3",NA,NA,"100",NA,NA
+"one","unnecto","drone xs",2016,"June",NA,"3.5",NA
+"i-mobile iq 1.5 dtv",NA,"i-mobile iq 1.5 dtv",NA,NA,"100",NA,NA
+"c5302","sony","xperia sp",2013,"April","180","4.6","also known as sony xperia sp hspa c5302, sony xperia sp lte c5303, sony xperia sp lte c5306"
+"highway pure",NA,"highway pure",NA,NA,NA,NA,NA
+"infinite","asus","transformer prime tf700t",2012,"July","400","10.1","tablet with no support for gsm voice communication, sms, and mms
+released as asus transformer pad infinity 700"
+"lenovo a6020a40","lenovo","vibe k5",2016,"April","120","5","also known as lenovo a6020a40"
+"lumia 830","nokia","lumia 830",2014,"September","330","5","also known as nokia lumia 830 rm-984"
+"mi 4w",NA,"mi 4w",NA,NA,NA,NA,NA
+"lenovo a6020a46","lenovo","vibe k5 plus",2016,"April","140","5","also known as lenovo a6020a46, lenovo lemon 3"
+"i-mobile iq 6.1",NA,"i-mobile iq 6.1",NA,NA,"100",NA,NA
+"iris 512","lava","iris atom",2015,"December","70","4",NA
+"x909","oppo","u705t ulike 2",2012,"December","280","4.5",NA
+"i552",NA,"i552",NA,NA,NA,NA,NA
+"hol-u19","huawei","honor holly",2014,"October","100","5",NA
+"u feel lite",NA,"u feel lite",NA,NA,NA,NA,NA
+"cam-l21",NA,"cam-l21",NA,NA,NA,NA,NA
+"i-mobile i-style 2.6",NA,"i-mobile i-style 2.6",NA,NA,"100",NA,NA
+"p7-l10","huawei","ascend p7 mini",2014,"May","180","4.5",NA
+"e2353","sony","d 2403",2015,"Q3","200","4.4","released as sony xperia m2 aqua"
+"y541-u02","huawei","honor bee",2015,"May","70","4.5","also known as huawei y5c"
+"thunder max",NA,"thunder max",NA,NA,NA,NA,NA
+"i-mobile iq 6",NA,"i-mobile iq 6",NA,NA,"100",NA,NA
+"gxq6580 weg l",NA,"gxq6580 weg l",NA,NA,NA,NA,NA
+"gt-i9505","samsung","i9505 galaxy s4",2013,"April","330","5","also known as:
+samsung galaxy s4 value edition i9515
+samsung sgh-i337 for at&t
+samsung i9505g galaxy s4 google play edition"
+"p8max","huawei","p8max",2015,"July","500","6.8",NA
+"n1","nokia","n1",2015,"January","320","7.9","this is not a gsm device, it will not work on any gsm network worldwide."
+"smart4g4inch",NA,"smart4g4inch",NA,NA,"70",NA,NA
+"i-mobile iq xpro2",NA,"i-mobile iq xpro2",NA,NA,"100",NA,NA
+"i-style2.1",NA,"i-style2.1",NA,NA,"100",NA,NA
+"d2303","sony","d 2403",2015,"Q3","200","4.4","released as sony xperia m2 aqua"
+"lenovo tab 2 a7-30hc","lenovo","tab3 7",2016,"April","80","7",NA
+"mt7-l09","huawei","ascend mate7 monarch",2015,"March","500","6","also known as huawei ascend mate7 monarch edition"
+"lenovo p90","lenovo","p90",2015,"April","450","5.5",NA
+"sm-g130","samsung","galaxy young 2",2014,"October","100","3.5","also known as samsung galaxy young 2 g130h"
+"f3116","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"iphone os 4","apple","iphone 4s",2011,"October","190","3.5","cdma available only if sold and activated for use on a cdma network"
+"zte v797",NA,"zte v797",NA,NA,"70",NA,NA
+"zte v769m",NA,"zte v769m",NA,NA,"70",NA,NA
+"e5333","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"sm-c101","samsung","galaxy s4 zoom",2013,"July","280","4.3","also known as samsung galaxy s4 zoom c1010, c101"
+"d2533","sony","xperia c3",2014,"August","190","5.5","also known as sony xperia c3 d2533"
+"lenovo a5500-hv","lenovo","a8-50 a5500",2014,"June","140","8","versions:
+lenovo a5500-f - wi-fi only (mediatek mt8121)
+lenovo a5500-h - wi-fi + 3g (data only)
+lenovo a5500-hv - wi-fi + 3g (voice)"
+"twz-a567",NA,"twz-a567",NA,NA,NA,NA,NA
+"zte blade","orange","san francisco ii",2011,"November","120","3.5","also known as zte crescent, zte blade s"
+"s500","posh","revel s500",2014,"August",NA,"5",""
+"lenovo a1000","lenovo","tab 2 a10-70",2015,"April","180","10.1","versions:
+lenovo tab 2 a10-70f wi-fi only
+lenovo tab 2 a10-70l wi-fi + 4g/3g (data only)"
+"shv-e250s","samsung","galaxy s6 edge",2015,"April","470","5.1","also known as samsung galaxy s6 edge g925
+versions: g9250 (china, hk), g925a (at&t), g925f (global), g925fq (turkey), g925i (latam, singapore, india, australia), g925k (korea), g925l, g925s (korea), g925t (t-mobile)"
+"lg  h502","lg","magna",2015,"May","140","5","also known as lg magna h502f, h500f"
+"lenovo s650","lenovo","s650",2013,"December","270","4.7",NA
+"htc desire 826 dual sim","htc","desire 826 dual sim",2015,"March","200","5.5",NA
+"pro","samsung","galaxy j3 pro",2016,"June","150","5",NA
+"tag-l22","huawei","g6600 passport",2010,"Q1","30","2.4",NA
+"sunny",NA,"sunny",NA,NA,NA,NA,NA
+"a1-724",NA,"a1-724",NA,NA,NA,NA,NA
+"premium","sony","xperia x premium",2015,"Q3",NA,"5.5","unofficial preliminary specifications. product image for illustrative purposes."
+"lenovo a526","lenovo","a526",2014,"June","70","4.5",NA
+"c6802","sony","xperia z ultra",2013,"July","280","6.4","also known as sony xperia z ultra hspa+ c6802, sony xperia z ultra lte c6806, sony xperia z ultra lte c6833"
+"n6+","pantech","pursuit ii",2011,"July","200","2.8","for at&t
+also known as pantech p6010"
+"mediapad t1 8.0","huawei","mediapad t1 8.0",2014,"September","150","8","also known as huawei honor tablet t1"
+"alcatel onetouch flash plus","alcatel","idol x+",2014,"Q2","290","5","also known as alcatel one touch idol x plus, alcatel idol x+ 6043d"
+"lenovo pb1-750m","lenovo","a850+",2014,"April","160","5.5","also known as lenovo a850 plus"
+"gt-s5310","samsung","galaxy pocket neo s5310",2013,"June","90","3","versions:
+samsung pocket neo gt-s5312 or samsung galaxy pocket y neo gt-s5312 with dual-sim card slots"
+"lg  h540","lg","g4 stylus",2015,"May","250","5.7","versions: h631 (t-mobile); ms631 (metro pcs); h635 (emea); h540 (uae); h630d (india); h542 (mexico)"
+"i-mobile i-style 215",NA,"i-mobile i-style 215",NA,NA,"100",NA,NA
+"a700","samsung","galaxy a7 duos",2015,"February","370","5.5","versions: a7000, a7009, a700h, a700yd"
+"che2-l12",NA,"che2-l12",NA,NA,NA,NA,NA
+"sm-t110","samsung","galaxy tab 3 lite 7.0",2014,"February","150","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung t110"
+"asus z012db","asus","zenfone 3 ze552kl",2016,"August","450","5.5",NA
+"sm-p355","samsung","galaxy tab a 8.0",2015,"May","210","8","versions: t350 (wi-fi); t355 (3g/lte)"
+"lenovo s930","lenovo","s939",2014,"May","180","6",NA
+"ad-572",NA,"ad-572",NA,NA,NA,NA,NA
+"gt-i8160","samsung","galaxy ace 2 i8160",2012,"May","130","3.8","available as samsung galaxy ace ii x s7560m for bell canada"
+"lenovo a6010","lenovo","vibe k5 plus",2016,"April","140","5","also known as lenovo a6020a46, lenovo lemon 3"
+"iris565",NA,"iris565",NA,NA,"70",NA,NA
+"pe-tl10","huawei","ascend plus",2014,"April","110","4","also known as huawei h881c ascend plus"
+"d2502","sony","xperia c3 dual",2014,"August","250","5.5","also known as sony xperia c3 dual d2502"
+"redmi note 2",NA,"redmi note 2",NA,NA,NA,NA,NA
+"g620s-l02","huawei","ascend g620s",2014,"November","180","5",NA
+"i-mobile iq 5.1",NA,"i-mobile iq 5.1",NA,NA,"100",NA,NA
+"z3","sony","xperia z3+",2015,"June","340","5.2","also known as sony xperia z3 plus, xperia z4, sony e6553"
+"i-mobile i-style 2.3",NA,"i-mobile i-style 2.3",NA,NA,"100",NA,NA
+"m2 note","meizu","m2 note",2015,"June","200","5.5","also known as meizu blue charm note2"
+"i-401",NA,"i-401",NA,NA,NA,NA,NA
+"lenovoa3300-hv","lenovo","a7-30 a3300",2014,"May","80","7","available as wi-fi only version with mediatek mt8121m chipset"
+"c6833","sony","xperia z ultra",2013,"July","280","6.4","also known as sony xperia z ultra hspa+ c6802, sony xperia z ultra lte c6806, sony xperia z ultra lte c6833"
+"a88new",NA,"a88new",NA,NA,NA,NA,NA
+"ipad","apple","ipad pro 9.7",2016,"March","690","9.7","supported lte networks
+versions: apple ipad pro wi-fi + cellular (3g/lte); apple ipad pro wi-fi (wi-fi, w/o gps)"
+"sf1",NA,"sf1",NA,NA,NA,NA,NA
+"i-mobile iq 511",NA,"i-mobile iq 511",NA,NA,"100",NA,NA
+"lenovo s1a40","lenovo","vibe s1",2015,"November","270","5",NA
+"a99","micromax","a99 canvas xpress",2014,"Q4","110","4.5",NA
+"zte blade a110",NA,"zte blade a110",NA,NA,"70",NA,NA
+"mi 5",NA,"mi 5",NA,NA,NA,NA,NA
+"gt-s6310","samsung","galaxy young s6310",2013,"March","90","3.27","versions: s6310l; samsung galaxy young duos s6312 with dual-sim card slots"
+"i515","samsung","galaxy nexus i515",2011,"November","150","4.65","for verizon
+also known as samsung galaxy nexus cdma, samsung sch-i515, google nexus prime, samsung droid prime"
+"a","blackberry","pearl 8130",20078,NA,NA,"2.2","this is not a gsm device, it will not work on any gsm network worldwide."
+"gt-p6200","samsung","p6200 galaxy tab 7.0 plus",2011,"October","260","7","also known as:
+samsung galaxy tab 7.0n plus
+samsung galaxy tab 7.0 plus n in germany
+tablet with support for gsm voice communication, sms, and mms"
+"asus t00f","asus","zenfone 5 a501cg",2015,"January","120","5","versions:
+intel atom z2520, dual-core 1.2 ghz
+intel atom z2560, dual-core 1.6 ghz"
+"y600-u151","huawei","ascend y600",2014,"June","100","5",NA
+"6042d","alcatel","flash plus",2015,"May","130","5.5",NA
+"n18","alcatel","ot-918d",2011,"December","130","3.2",NA
+"i-mobile i-style 7.9 dtv",NA,"i-mobile i-style 7.9 dtv",NA,NA,"100",NA,NA
+"s700","posh","equal s700",2014,"September",NA,"7",""
+"highway signs",NA,"highway signs",NA,NA,NA,NA,NA
+"mi 3w",NA,"mi 3w",NA,NA,NA,NA,NA
+"ideataba1000-g","lenovo","ideatab a1000",2013,"May","150","7","tablet with no support for gsm voice communication, sms, and mms"
+"lg  d410","lg","l90 dual d410",2014,"April","290","4.7","also available as lg l90 dual sim d410"
+"lenovo p1a42","lenovo","vibe p1 turbo",2016,"February","260","5.5","also known as lenovo vibe p1 pro"
+"mi max",NA,"mi max",NA,NA,NA,NA,NA
+"i-mobile iq 515 dtv",NA,"i-mobile iq 515 dtv",NA,NA,"100",NA,NA
+"d5833","sony","xperia z3 compact",2014,"September","370","4.6","also known as sony d5803, d5833"
+"g750-u10","huawei","honor 3x g750",2013,"December","250","5.5","also known as huawei ascend g750"
+"g7-l03","huawei","ascend g7",2014,"October","260","5.5","also known as huawei g7-l01, g7-l03"
+"a56","micromax","a56",2012,"July","80","3.5",NA
+"i-mobile i-style 7.8 dtv",NA,"i-mobile i-style 7.8 dtv",NA,NA,"100",NA,NA
+"mt7-tl10","huawei","ascend mate7 monarch",2015,"March","500","6","also known as huawei ascend mate7 monarch edition"
+"y600-u20","huawei","ascend y600",2014,"June","100","5",NA
+"i-mobile i-style 8.2",NA,"i-mobile i-style 8.2",NA,NA,"100",NA,NA
+"lg  d618","lg","g2 mini",2014,"April","160","4.7","available as lg g2 mini d618 dual sim with dual-sim card slots"
+"htc desire 816g dual sim","htc","desire 816g dual sim",2014,"October","260","5.5",NA
+"p024","asus","zenpad 8.0 z380kl",2015,"July",NA,"8",NA
+"sunset2",NA,"sunset2",NA,NA,NA,NA,NA
+"lua-l22","huawei","y3ii",2016,"June",NA,"4.5","also known as huawei y3 2"
+"me371mg","asus","fonepad",2013,"April","260","7","also available with a 1.6 ghz intel atom z2460 processor and 32 gb of built-in storage"
+"i-mobile iqx bliz",NA,"i-mobile iqx bliz",NA,NA,"100",NA,NA
+"d5503","sony","xperia z1 compact",2014,"January","320","4.3","also known as sony xperia z1 compact d5503"
+"i-mobile iq5.1a pro",NA,"i-mobile iq5.1a pro",NA,NA,"100",NA,NA
+"shv-e250k","samsung","galaxy s6 edge",2015,"April","470","5.1","also known as samsung galaxy s6 edge g925
+versions: g9250 (china, hk), g925a (at&t), g925f (global), g925fq (turkey), g925i (latam, singapore, india, australia), g925k (korea), g925l, g925s (korea), g925t (t-mobile)"
+"i-mobile iq 6a",NA,"i-mobile iq 6a",NA,NA,"100",NA,NA
+"lenovo a3500-hv","lenovo","a7-50 a3500",2014,"June","120","7","versions:
+lenovo a3500-f - wi-fi only (mediatek mt8381)
+lenovo a3500-h - wi-fi + 3g (data only)
+lenovo a3500-hv - wi-fi + 3g (voice)"
+"zte v817",NA,"zte v817",NA,NA,"70",NA,NA
+"i612",NA,"i612",NA,NA,NA,NA,NA
+"zte n939sc",NA,"zte n939sc",NA,NA,"70",NA,NA
+"n2","niu","pana 3g tv n206",2012,"September",NA,"2","- single sim: n216
+- dual sim: n206"
+"lg  h788",NA,"lg  h788",NA,NA,NA,NA,NA
+"shv-e210s","samsung","galaxy tab 3 7.0 wifi",2013,"July","140","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 3 7.0 p3210, samsung t210"
+"i-mobile i-style 2.8",NA,"i-mobile i-style 2.8",NA,NA,"100",NA,NA
+"i-mobile iqx oku",NA,"i-mobile iqx oku",NA,NA,"100",NA,NA
+"c2105","sony","xperia l",2013,"May","130","4.3","also known as sony xperia l c2105, sony xperia l c2104"
+"a100","lenovo","a1000",2015,"September","60","4",NA
+"i-mobile iq z bright",NA,"i-mobile iq z bright",NA,NA,"100",NA,NA
+"x-cite slim",NA,"x-cite slim",NA,NA,NA,NA,NA
+"i615",NA,"i615",NA,NA,NA,NA,NA
+"k016","asus","fonepad 8 fe380cg",2014,"Q3","200","8",NA
+"lg  h324","lg","leon",2015,"April","120","4.5","also known as lg leon 4g lte h340n; lg leon dual sim with dual-sim card slots"
+"c570","celkon","c570",2012,NA,NA,"2.4",NA
+"lumia 532 dual sim","microsoft","lumia 532 dual sim",2015,"February","90","4",NA
+"highway star",NA,"highway star",NA,NA,NA,NA,NA
+"i-mobile iq 1.3 dtv",NA,"i-mobile iq 1.3 dtv",NA,NA,"100",NA,NA
+"iq 5.6a",NA,"iq 5.6a",NA,NA,NA,NA,NA
+"lenovo s860","lenovo","s860",2014,"May","250","5.3",NA
+"modern s6","samsung","s6700",2009,"Q3","120","2.4",NA
+"lt25i","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"g6-u251","huawei","g6600 passport",2010,"Q1","30","2.4",NA
+"t12","philips","t129",2012,"March",NA,"2.4",NA
+"x-cite classic",NA,"x-cite classic",NA,NA,NA,NA,NA
+"z160","acer","liquid z410",2015,"February","130","4.5",NA
+"flare j1",NA,"flare j1",NA,NA,NA,NA,NA
+"gra-ul10","huawei","p8max",2015,"July","500","6.8",NA
+"a800","lenovo","a800",2013,"January","120","4.5",NA
+"htc one e9plus dual sim",NA,"htc one e9plus dual sim",NA,NA,NA,NA,NA
+"t18","blu","tank",2012,"June","20","1.8","t180 - single sim
+t190 - dual sim"
+"i-mobile iq 9a",NA,"i-mobile iq 9a",NA,NA,"100",NA,NA
+"sm-t705","samsung","galaxy tab 2 7.0 i705",2012,"August","200","7","tablet with support for cdma, lte voice/data communication, sms, and mms
+also known as samsung galaxy tab 2 (7.0) lte
+for verizon"
+"t05","acer","liquid z530",2015,"October","150","5",NA
+"i-style 7.6a",NA,"i-style 7.6a",NA,NA,"100",NA,NA
+"lenny",NA,"lenny",NA,NA,NA,NA,NA
+"nexus 4","lg","nexus 4 e960",2012,"November","250","4.7","also known as lg nexus 4, lg mako"
+"s59",NA,"s59",NA,NA,NA,NA,NA
+"k00e","asus","fonepad",2013,"April","260","7","also available with a 1.6 ghz intel atom z2460 processor and 32 gb of built-in storage"
+"c6903","sony","xperia z1",2013,"September","330","5","also known as sony xperia z1 honami, sony xperia z1 c6902/l39h, sony xperia z1 c6903, sony xperia z1 c6906, sony xperia z1 c6943"
+"d5322","sony","xperia t2 ultra dual",2014,"March","280","6","also known as sony xperia t2 ultra dual sim d5322, xm50h"
+"e39","acer","liquid e700",2014,"August","200","5","also known as acer liquid e700 trio"
+"a500","lenovo","a5000",2015,"April","150","5",NA
+"sm-n9200","samsung","galaxy note5",2015,"August","530","5.7","versions: n920t (t-mobile); n920a (at&t); n920i (australia, new zealand, singapore, canada); n920g
+ (india)"
+"lenovo s920 row","lenovo","s920",2013,"May","250","5.3",NA
+"x-cite-gorilla5",NA,"x-cite-gorilla5",NA,NA,NA,NA,NA
+"gt-s6810","samsung","galaxy fame s6810",2013,"March","120","3.5","available as samsung galaxy fame s6810p with nfc; samsung galaxy fame duos s6812 with dual-sim card slots"
+"i-mobile iq x wiz",NA,"i-mobile iq x wiz",NA,NA,"100",NA,NA
+"rtech72 we 72 kk",NA,"rtech72 we 72 kk",NA,NA,NA,NA,NA
+"lenovo k900 row","lenovo","k900",2013,"April","360","5.5",NA
+"mi 4lte",NA,"mi 4lte",NA,NA,NA,NA,NA
+"i-mobile i-style 7.7 dtv",NA,"i-mobile i-style 7.7 dtv",NA,NA,"100",NA,NA
+"lumia 550","microsoft","lumia 550",2015,"December","90","4.7",NA
+"zte blade l0510",NA,"zte blade l0510",NA,NA,"70",NA,NA
+"gt-i9070","samsung","i9070 galaxy s advance",2012,"April","150","4","also known as samsung galaxy s ii lite"
+"a0001","oneplus","one",2014,"June","250","5.5",NA
+"gt-i8750","samsung","ativ s i8750",2012,"December","220","4.8",NA
+"i-mobile i-style 7.3",NA,"i-mobile i-style 7.3",NA,NA,"100",NA,NA
+"nexus 5x","lg","nexus 5x",2015,"October","270","5.2",NA
+"v972m",NA,"v972m",NA,NA,NA,NA,NA
+"lenovo s960","lenovo","vibe x s960",2013,"December","420","5",NA
+"zte v765m",NA,"zte v765m",NA,NA,"70",NA,NA
+"mz-m2 note","meizu","m1 note",2015,"January","130","5.5",NA
+"z220","acer","liquid z220",2015,"April","90","4","available as acer liquid z220 duo with dual-sim card slot"
+"pro plus+","motorola","pro+",2011,"November","220","3.1","also known as motorola motorola pro+ 4g for bell in canada, motorola pro plus mb632"
+"nex start8",NA,"nex start8",NA,NA,NA,NA,NA
+"y511-u30","huawei","ascend y511",2013,"November","110","4.5",NA
+"i-mobile i-style 2.4",NA,"i-mobile i-style 2.4",NA,NA,"100",NA,NA
+"x-cite-selfie",NA,"x-cite-selfie",NA,NA,NA,NA,NA
+"rainbow jam",NA,"rainbow jam",NA,NA,NA,NA,NA
+"n6","pantech","pursuit ii",2011,"July","200","2.8","for at&t
+also known as pantech p6010"
+"lumia 1520 like","nokia","lumia 1520",2013,"November","350","6","rm-937 - global version
+rm-938 - us version
+rm-939 - wcdma hspa+ version
+rm-940 - at&t version"
+"s2","samsung","galaxy tab s2 9.7",2015,"September","520","9.7","versions (2016): t813n (wi-fi); t819n (3g/lte)
+versions (2015): t810 (wi-fi); t815 (3g/lte)"
+"gt-n7105","samsung","galaxy note ii n7100",2012,"September","300","5.5",NA
+"htc desire 620g dual sim","htc","desire 620g dual sim",2014,"December","190","5",NA
+"lumia 1320 like","nokia","lumia 1320",2014,"January","210","6","rm-994 - global version
+rm-995 - lta version
+rm-996 version with hsdpa (21 mbps), hsupa (5.76 mbps)"
+"sapphire 1","nokia","8800 arte",2007,"December","610","2",NA
+"lg  d325","lg","l70 dual d325",2014,"May","130","4.5","also known as lg l70 dual sim d325"
+"lenovo b6000-hv","lenovo","a5860",2011,"July",NA,"5.5","preliminary unofficial specifications"
+"lenovo p780","lenovo","p780",2013,"June","190","5",NA
+"6s","gionee","s6s",2016,"August","280","5.5",NA
+"n5","samsung","galaxy on5 pro",2016,"July","150","5",NA
+"5038e","alcatel","pop d5",2014,"September","100","4.5",NA
+"twz y1",NA,"twz y1",NA,NA,NA,NA,NA
+"iq9.1a",NA,"iq9.1a",NA,NA,NA,NA,NA
+"mediapad x1 7.0","huawei","mediapad x1",2014,"April","350","7","tablet with support for gsm voice communication, sms, and mms.
+also known as:
+huawei mediapad x1 7.0
+huawei honor x1 7d-501u with wi-fi & 3g connectivity"
+"alcatel one touch 7047d","alcatel","pop c9",2014,"June","140","5.5",NA
+"1512v3",NA,"1512v3",NA,NA,NA,NA,NA
+"i-mobile i-style 2.5",NA,"i-mobile i-style 2.5",NA,NA,"100",NA,NA
+"g730-u27","huawei","g7300",2011,"November","90","3.5",NA
+"lenovo s920","lenovo","s920",2013,"May","250","5.3",NA
+"zyq",NA,"zyq",NA,NA,NA,NA,NA
+"zte t620",NA,"zte t620",NA,NA,"70",NA,NA
+"sm-n9208","samsung","galaxy note5",2015,"August","530","5.7","versions: n920t (t-mobile); n920a (at&t); n920i (australia, new zealand, singapore, canada); n920g
+ (india)"
+"i-mobile i-style 2.7",NA,"i-mobile i-style 2.7",NA,NA,"100",NA,NA
+"i552 mango",NA,"i552 mango",NA,NA,NA,NA,NA
+"idea","lenovo","ideatab a2107",2013,"January","150","7",NA
+"c5502","sony","xperia zr",2013,"June","230","4.55","also known as sony xperia zr c5502, sony xperia zr c5503, sony xperia zr lte, sony xperia zr hspa+"
+"lg  v490","lg","g pad 8.0 lte",2014,"August","240","8","also known as lg v490, lg g pad 8.0 4g"
+"n3","oppo","n3",2015,"January","550","5.5",NA
+"c2104","sony","xperia l",2013,"May","130","4.3","also known as sony xperia l c2105, sony xperia l c2104"
+"i-mobile iq 6.2",NA,"i-mobile iq 6.2",NA,NA,"100",NA,NA
+"k00z","asus","p735",2007,"January","370","2.8",NA
+"t11","samsung","galaxy tab 3 lite 7.0",2014,"February","150","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung t110"
+"i-mobile iq 5.1a",NA,"i-mobile iq 5.1a",NA,NA,"100",NA,NA
+"nexus one","htc","google nexus one",2010,"January","120","3.7",NA
+"a-203","nokia","asha 203",2012,"May","80","2.4",NA
+"i502",NA,"i502",NA,NA,NA,NA,NA
+"mi-4c",NA,"mi-4c",NA,NA,NA,NA,NA
+"lady","lg","c320 intouch lady",2010,"November","70","2.4","also known as lg c320 town"
+"typhoon-t2",NA,"typhoon-t2",NA,NA,NA,NA,NA
+"asus z00yd",NA,"asus z00yd",NA,NA,NA,NA,NA
+"hm note 1lte",NA,"hm note 1lte",NA,NA,NA,NA,NA
+"moto g","motorola","moto g4",2016,"May","190","5.5",NA
+"sm-t331","samsung","galaxy tab 4 8.0 3g",2014,"June","300","8","tablet with support for gsm voice communication, sms, and mms
+also known as samsung t331, galaxy tab4 8.0 3g"
+"iphone 6","apple","iphone 6s plus",2015,"September","750","5.5",NA
+"y511-u251","huawei","ascend y511",2013,"November","110","4.5",NA
+"nexus 6","huawei","nexus 6p",2015,"September","600","5.7",NA
+"n7+","samsung","galaxy on7 pro",2016,"July","180","5.5",NA
+"true beyond tab 3g",NA,"true beyond tab 3g",NA,NA,"70",NA,NA
+"i-mobile i-style 7.1",NA,"i-mobile i-style 7.1",NA,NA,"100",NA,NA
+"alcatel one touch 7041d","alcatel","ot-c700a",2007,NA,NA,"1.8",NA
+"t01","huawei","honor 3x g750",2013,"December","250","5.5","also known as huawei ascend g750"
+"i-mobile iq x3a",NA,"i-mobile iq x3a",NA,NA,"100",NA,NA
+"i-mobile i-style 8.1",NA,"i-mobile i-style 8.1",NA,NA,"100",NA,NA
+"i-mobile iq x slim 2",NA,"i-mobile iq x slim 2",NA,NA,"100",NA,NA
+"bluesea",NA,"bluesea",NA,NA,NA,NA,NA
+"lenovo a316i","lenovo","a316i",2014,"April","50","4",NA
+"zte v811w",NA,"zte v811w",NA,NA,"70",NA,NA
+"twz a55",NA,"twz a55",NA,NA,NA,NA,NA
+"zte v993w",NA,"zte v993w",NA,NA,"70",NA,NA
+"lenovo a850","lenovo","a850+",2014,"April","160","5.5","also known as lenovo a850 plus"
+"htc one e8","htc","one (e8) cdma",2014,"August","400","5","for sprint"
+"motog3-te","motorola","aura",2008,"December","530","1.55","also motorola aura diamond edition plated with 34 diamonds and gold."
+"y520-u33","huawei","ascend y520",2014,"December","80","4.5",NA
+"f3216","sony","xperia xa ultra",2016,"July","380","6","also known as sony xperia xa ultra dual (f3212, f3216) with dual-sim card slots"
+"i-mobile iq xa",NA,"i-mobile iq xa",NA,NA,"100",NA,NA
+"i-mobile i-style 211",NA,"i-mobile i-style 211",NA,NA,"100",NA,NA
+"ad-552","asus","zenfone 3 ze552kl",2016,"August","450","5.5",NA
+"messi 2 4g",NA,"messi 2 4g",NA,NA,NA,NA,NA
+"n7","samsung","galaxy on7 pro",2016,"July","180","5.5",NA
+"shv-e300s","samsung","z3",2015,"October","110","5","versions: z300h/dd (india)"
+"t3","huawei","honor 5c",2016,"May","200","5.2","asia model has fingerprint sensor
+also known as huawei honor 7 lite, huawei gt3"
+"c1905","sony","xperia m",2013,"August","130","4","also known as sony c1904, c1905, c2004, c2005; sony xperia m dual with dual-sim card slots"
+"sunset",NA,"sunset",NA,NA,NA,NA,NA
+"x-cite max",NA,"x-cite max",NA,NA,NA,NA,NA
+"nexus 7","asus","google nexus 7 (2013)",2013,"July","230","7","avalable as:
+asus google nexus 7 2 cellular with 3g/4g support
+asus google nexus 7 2 with no cellular network support"
+"x-cite premier",NA,"x-cite premier",NA,NA,NA,NA,NA
+"daimon1",NA,"daimon1",NA,NA,NA,NA,NA
+"nexus 6p","huawei","nexus 6p",2015,"September","600","5.7",NA
+"i-mobile iq x",NA,"i-mobile iq x",NA,NA,"100",NA,NA
+"lenovo tb3-850m","lenovo","a5860",2011,"July",NA,"5.5","preliminary unofficial specifications"
+"t14",NA,"t14",NA,NA,NA,NA,NA
+"6s plus","apple","iphone 6s plus",2015,"September","750","5.5",NA
+"htc one max","htc","one max",2013,"October","370","5.9","available as htc one max dual sim for china"
+"g9200","samsung","galaxy s6",2015,"April","410","5.1","curved screen version available - samsung galaxy s6 edge
+versions: g9200 (hong kong), g9208 (china), g9208/ss (china), g9209 (china), g920a (at&t), g920f (global), g920fd (pakistan, philippines), g920i (latam, singapore, india, australia), g920s (korea), g920t (t-mobile)"
+"htc one mini","htc","one mini 2",2014,"May","440","4.5",NA
+"i-401 plus one",NA,"i-401 plus one",NA,NA,NA,NA,NA
+"t5","samsung","galaxy tab a 10.1 (2016)",2016,"May","290","10.1","versions: t580 (wi-fi only); t585 (lte/wi-fi)
+s-pen versions: p580 (wi-fi only); p585 (lte/wi-fi)"
+"shv-e330s","samsung","i9506 galaxy s4",2013,"Q3","390","5","also known as:
+samsung galaxy s4 advance in uk
+samsung galaxy s4 with lte+
+available as samsung shv-e330s galaxy s4 lte-a for sk telecom"
+"gt-n8000","samsung","galaxy note 10.1 n8000",2012,"August","320","10.1","tablet with support for gsm voice communication, sms, and mms
+also known as samsung galaxy note 800, samsung galaxy note 10.1 3g & wifi"
+"idea selfie",NA,"idea selfie",NA,NA,NA,NA,NA
+"hp slate 6 voice tab","hp","slate7 voicetab ultra",2014,NA,"400","7",NA
+"sens5","htc","p3350",2007,"February","210","2.8","htc love platform. full htc platforms guide"
+"x-cite-gorilla-diamond",NA,"x-cite-gorilla-diamond",NA,NA,NA,NA,NA
+"iqx ken",NA,"iqx ken",NA,NA,NA,NA,NA
+"lenovo s820","lenovo","s820",2013,"May","230","4.7",NA
+"i-mobile i-style 8",NA,"i-mobile i-style 8",NA,NA,"100",NA,NA
+"lenovo a516","lenovo","a516",2013,"Q3","110","4.5",NA
+"xt1572","motorola","moto x style",2015,"September","450","5.7","also known as moto x pure edition"
+"a3000","lenovo","ideatab a3000",2013,"May","180","7",NA
+"v5a-5.5",NA,"v5a-5.5",NA,NA,NA,NA,NA
+"daimon5",NA,"daimon5",NA,NA,NA,NA,NA
+"v5","lava","v5",2016,"January","150","5.5",NA
+"n14 edge","samsung","galaxy note edge",2014,"November","650","5.6","versions: n915fy (europe), n915a (at&t), n915t (t-mobile), n915k/n915l/n915s (korea), n915g (singapore, australia, spain), n915d (japan)"
+"lumia 535","microsoft","lumia 535 dual sim",2014,"December","80","5",NA
+"i-mobile i-style 7.3a",NA,"i-mobile i-style 7.3a",NA,NA,"100",NA,NA
+"lenovo s660","lenovo","s660",2014,"June","170","4.7",NA
+"grand max plus",NA,"grand max plus",NA,NA,NA,NA,NA
+"i-mobile iq z pro",NA,"i-mobile iq z pro",NA,NA,"100",NA,NA
+"k00r","asus","memo pad 7 me572cl",2014,"November","240","7",NA
+"t04","acer","liquid z630s",2015,"September",NA,"5.5",NA
+"sm-t715","samsung","d900i",2007,NA,"90","2.1",NA
+"i-mobile i-style 2.9",NA,"i-mobile i-style 2.9",NA,NA,"100",NA,NA
+"aplus p9",NA,"aplus p9",NA,NA,NA,NA,NA
+"5015e","alcatel","ot-e805",2007,"February",NA,NA,NA
+"messi no.1",NA,"messi no.1",NA,NA,NA,NA,NA
+"n6 plus+","motorola","rokr z6",2007,"January","90","2.1","formerly known as motorola rizr z6"
+"rainbow lite",NA,"rainbow lite",NA,NA,NA,NA,NA
+"d6603","sony","xperia z3v",2014,"October","370","5.2","for verizon
+also known as sony xperia z3v d6708"
+"lenovo a706 row","lenovo","vibe k4 note",2016,"January","190","5.5","also known as: lenovo k4 note a7010a48, a7010, lenovo vibe x3 lite"
+"s55","lg","stylus 2 plus",2016,"July","360","5.7","versions: k535d (india), k535n (hk, taiwan), lg stylo 2 plus ms550 (metro pcs); lg stylo 2 plus k550 (t-mobile), k530f (south america)
+k530f, k535d and k535n models lack fingerprint scanner"
+"e5803","sony","xperia z4 compact",2015,"Q3",NA,"4.7",NA
+"a12","qmobile","noir a120",2014,"May","80","4",NA
+"d2403","sony","d 2403",2015,"Q3","200","4.4","released as sony xperia m2 aqua"
+"gt-i9060","samsung","galaxy grand neo",2014,"February","130","5.01","also known as: samsung galaxy grand lite; samsung galaxy grand neo plus i9060i with 2 mp front camera"
+"i-mobile iq x2",NA,"i-mobile iq x2",NA,NA,"100",NA,NA
+"jpad omega tab dtv701",NA,"jpad omega tab dtv701",NA,NA,NA,NA,NA
+"n9plus",NA,"n9plus",NA,NA,NA,NA,NA
+"shv-e160s","samsung","galaxy ace 2 i8160",2012,"May","130","3.8","available as samsung galaxy ace ii x s7560m for bell canada"
+"xt1032","motorola","q 9h",2007,"February","70","2.4","also known as motorola q q9
+at&t version is called q 9h global and has gps and wcdma 850/1900 support"
+"mi note pro",NA,"mi note pro",NA,NA,NA,NA,NA
+"x5","posh","icon hd x551",2016,"January",NA,"5.5",""
+"n5116","oppo","n1 mini",2014,"August","330","5",NA
+"htc one m9plus",NA,"htc one m9plus",NA,NA,NA,NA,NA
+"f5 13","benq","f5",2014,"September","100","5","also known as benq f5 4g lte"
+"ss9",NA,"ss9",NA,NA,NA,NA,NA
+"slide","t-mobile","mytouch 4g slide",2011,"July","350","3.7","also known as t-mobile doubleshot"
+"twz a95",NA,"twz a95",NA,NA,NA,NA,NA
+"g510-0251","huawei","ascend g510",2013,"April","100","4.5","also known as ascend g510 u8951 with dual-sim card slots"
+"htc one x","htc","one x",2012,"May","170","4.7","also known as htc one xt for china"
+"n15",NA,"n15",NA,NA,NA,NA,NA
+"sgp621","sony","xperia z4 compact",2015,"Q3",NA,"4.7",NA
+"p10","samsung","p1010 galaxy tab wi-fi",2011,"March","150","7","tablet with no support for gsm voice communication, sms, and mms"
+"smart 5.0",NA,"smart 5.0",NA,NA,"70",NA,NA
+"mx5","meizu","mx5",2015,"July","200","5.5",NA
+"iq 5.5",NA,"iq 5.5",NA,NA,NA,NA,NA
+"gt-s7580","samsung","galaxy s duos 2 s7582",2013,"December","130","4","also known as samsung galaxy trend plus s7580 with single-sim card slot"
+"a21","micromax","canvas 4 a210",2013,"July","230","5",NA
+"i-mobile iq 1068",NA,"i-mobile iq 1068",NA,NA,"100",NA,NA
+"n10","niu","domo n102",2012,"January","40","2","- single sim: n1021
+- dual sim: n102"
+"g6-u10","huawei","g6600 passport",2010,"Q1","30","2.4",NA
+"t20","toshiba","excite at200",2012,"January","530","10.1","this is not a gsm device, it will not work on any gsm network worldwide."
+"r8113","oppo","find",2012,"July","100","4.3",NA
+"nex start9",NA,"nex start9",NA,NA,NA,NA,NA
+"f8132","sony","xperia x performance",2016,"June","700","5","also known as sony xperia x performance dual f8132 with dual-sim card slots"
+"gt-i9305","samsung","i9305 galaxy s iii",2012,"September","320","4.8","also known as samsung galaxy s iii lte"
+"i-401 plus",NA,"i-401 plus",NA,NA,NA,NA,NA
+"x-cite-gorilla7",NA,"x-cite-gorilla7",NA,NA,NA,NA,NA
+"lt26ii","sony","xperia p",2012,"May","210","4","previously known as sony lt22i nypon"
+"blade s6",NA,"blade s6",NA,NA,"70",NA,NA
+"e2115","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"o1","nokia","6301",2008,"March","130","2",NA
+"asus z017db","asus","zenfone 3 ze552kl",2016,"August","450","5.5",NA
+"q638",NA,"q638",NA,NA,NA,NA,NA
+"t2","samsung","galaxy tab a 7.0 (2016)",2016,"March","150","7","versions: t280 (wi-fi only); t285 (4g/wi-fi)"
+"lg  d680","lg","g pro lite",2013,"November","250","5.5","also known as lg pro lite d680, d682tr"
+"a555","samsung","c170",2007,"May","40","1.52",NA
+"lg  e989","lg","optimus g pro e985",2013,"April","400","5.5","versions:
+lg optimus g pro f240
+lg optimus g pro l-04e
+lg optimus g pro e980
+lg optimus g pro e986 for europe"
+"gt-i9301","samsung","i9301i galaxy s3 neo",2014,"June","270","4.8",NA
+"lenovo x2-ap","lenovo","vibe x2 pro",2015,"April","330","5.3",NA
+"redmi 3",NA,"redmi 3",NA,NA,NA,NA,NA
+"s807touch",NA,"s807touch",NA,NA,NA,NA,NA
+"cherry life",NA,"cherry life",NA,NA,NA,NA,NA
+"z410","plum","axe lte",2015,"December",NA,"4","also known as plum z410"
+"i-mobile iq 5.7a",NA,"i-mobile iq 5.7a",NA,NA,"100",NA,NA
+"a22new",NA,"a22new",NA,NA,NA,NA,NA
+"oneplus a3000","oneplus","3",2016,"June","400","5.5","also known as oneplus three"
+"grand max","samsung","galaxy grand max",2015,"January","260","5.25","also known as samsung galaxy grand max g720"
+"shv-e250l","samsung","galaxy s6 edge",2015,"April","470","5.1","also known as samsung galaxy s6 edge g925
+versions: g9250 (china, hk), g925a (at&t), g925f (global), g925fq (turkey), g925i (latam, singapore, india, australia), g925k (korea), g925l, g925s (korea), g925t (t-mobile)"
+"omega lite 2",NA,"omega lite 2",NA,NA,NA,NA,NA
+"c6502","sony","xperia zl",2013,"March","260","5","also known as:
+sony xperia c6503, c6502, c6506, sony xperia zl lte, sony xperia zl hspa+
+released as sony xperia zq in brazil"
+"twz-a45",NA,"twz-a45",NA,NA,NA,NA,NA
+"p8","allview","p8 energy mini",2016,"January","170","5",NA
+"p6-u06","huawei","ascend p6 s",2014,"January","300","4.7","for china unicom"
+"chat3","inq","mini 3g",2009,"September",NA,"2.2",NA
+"i-05 v1","htc","p3350",2007,"February","210","2.8","htc love platform. full htc platforms guide"
+"lt29i","sony","xperia tx",2012,"October","330","4.55","also known as sony lt29i"
+"m2","blu","dash m2",2016,"April",NA,"5",NA
+"g730-u10","huawei","g7300",2011,"November","90","3.5",NA
+"lg  d682","lg","g pro lite",2013,"November","250","5.5","also known as lg pro lite d680, d682tr"
+"g3","samsung","galaxy v plus",2015,"July","70","4","also known as samsung galaxy v+ g318"
+"ad-560","lg","g stylo",2015,"May","180","5.7","versions: ls770 (boost mobile, sprint); h634 (cricket);"
+"e9","htc","one e9+",2015,"May","320","5.5","also known as htc one e9 plus (a55)
+"
+"t6","qmobile","noir lt680",2016,"August",NA,"5",NA
+"i-mobile i-tab fun 7009",NA,"i-mobile i-tab fun 7009",NA,NA,"100",NA,NA
+"galaxy nexus","samsung","galaxy nexus lte l700",2012,"April","270","4.65","for sprint"
+"i516 x5",NA,"i516 x5",NA,NA,NA,NA,NA
+"wax",NA,"wax",NA,NA,NA,NA,NA
+"158","huawei","t158",2008,NA,NA,"1.4",NA
+"i551 grand",NA,"i551 grand",NA,NA,NA,NA,NA
+"k00g",NA,"k00g",NA,NA,NA,NA,NA
+"i-mobile i-style 8.2a",NA,"i-mobile i-style 8.2a",NA,NA,"100",NA,NA
+"i-mobile i-style 712",NA,"i-mobile i-style 712",NA,NA,"100",NA,NA
+"v370","acer","betouch e200",2009,"October","190","3","also known as acer l1"
+"e19 quad core",NA,"e19 quad core",NA,NA,NA,NA,NA
+"ale-l21","huawei","p8lite",2015,"May","170","5","also known as huawei ale-l21"
+"z4","plum","axe plus 2",2016,"May",NA,"4","also known as plum z404"
+"i-mobile i-style 212",NA,"i-mobile i-style 212",NA,NA,"100",NA,NA
+"daimon2","htc","touch diamond2",2009,"April","150","3.2","a.k.a. htc warhawk for at&t. htc topaz platform. "
+"lt26i","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"i552happy",NA,"i552happy",NA,NA,NA,NA,NA
+"infinix-x552",NA,"infinix-x552",NA,NA,NA,NA,NA
+"au602",NA,"au602",NA,NA,NA,NA,NA
+"ad-575","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"daimon 4","htc","touch diamond",2008,"May","130","2.8","htc diamond 100 platform. full htc platforms guide"
+"n8","samsung","galaxy note 10.1 n8010",2012,"August","350","10.1","tablet with no support for gsm voice communication, sms, and mms"
+"x170","lg","gs390 prime",2010,"October","70","3","for at&t"
+"daimon 3","htc","touch diamond",2008,"May","130","2.8","htc diamond 100 platform. full htc platforms guide"
+"hm note 1w",NA,"hm note 1w",NA,NA,NA,NA,NA
+"gt-i9195","samsung","i9190 galaxy s4 mini",2013,"July","230","4.3","also known as samsung i9190 galaxy s iv mini; samsung i9190 galaxy s4 mini duos with dual-sim card slots"
+"i-mobile i-tab dtv",NA,"i-mobile i-tab dtv",NA,NA,"100",NA,NA
+"e6633","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"mi note lte",NA,"mi note lte",NA,NA,NA,NA,NA
+"lg  d686","lg","g pro lite dual",2013,"November","240","5.5","also known as lg pro lite dual d686"
+"lg  e988","lg","optimus g pro e985",2013,"April","400","5.5","versions:
+lg optimus g pro f240
+lg optimus g pro l-04e
+lg optimus g pro e980
+lg optimus g pro e986 for europe"
+"m2-801l","huawei","t201",2008,NA,NA,"1.5",NA
+"play 2","motorola","moto x play dual sim",2015,"August","320","5.5",NA
+"a600","lenovo","a6000 plus",2015,"April","110","5","also known as lenovo a6000+"
+"zh-cn","motorola","moto xt882",2011,"Q3","230","4",NA
+"sm-t365","samsung","galaxy tab active lte",2014,"December","600","8","tablet with support for gsm voice communication, sms, and mms
+also known as samsung t365"
+"e4","plum","ram 4",2016,"April",NA,"2.4","also known as plum e400"
+"i-mobile i-style 7.5",NA,"i-mobile i-style 7.5",NA,NA,"100",NA,NA
+"i-mobile iq 512 dtv",NA,"i-mobile iq 512 dtv",NA,NA,"100",NA,NA
+"xt1562","motorola","moto x play dual sim",2015,"August","320","5.5",NA
+"crystal 2","sharp","aquos crystal 2",2015,"July",NA,"5.2",NA
+"jimmy",NA,"jimmy",NA,NA,NA,NA,NA
+"x-citeï¼gorilla2","lg","x power",2016,"September","240","5.3","versions: k220ds (russia, uae); k220 (europe)"
+"d2203","sony","xperia e3",2014,"September","170","4.5","also known as sony d2203, d2206, d2243, d2202"
+"lumia 625h","nokia","lumia 625",2013,"August","160","4.7",NA
+"modern-s8","samsung","s8300 ultratouch",2009,"March","140","2.8","- also known as samsung s8300 tocco ultra edition and samsung player ultra"
+"shv-e310s","samsung","galaxy j3 (2016)",2016,"January","150","5","versions: j320f (emea); j320a (at&t); j320p (virgin mobile, boost); j3109 (china); j320m; j320y
+also known as samsung galaxy j3 (2016) duos with dual-sim card slots"
+"a2","panasonic","eluga a2",2016,"April","150","5",NA
+"a44new",NA,"a44new",NA,NA,NA,NA,NA
+"jupiter",NA,"jupiter",NA,NA,NA,NA,NA
+"t1","motorola","moto e dual sim (2nd gen)",2015,"March","100","4.5","also known as:
+motorola moto e (2nd gen) 3g xt1506
+motorola moto e (2nd gen) 4g xt1521"
+"twz play123",NA,"twz play123",NA,NA,NA,NA,NA
+"gt-n5120","samsung","d900i",2007,NA,"90","2.1",NA
+"s802 touch","lenovo","s820",2013,"May","230","4.7",NA
+"typhoon",NA,"typhoon",NA,NA,NA,NA,NA
+"xt1033","motorola","moto g dual sim",2014,"January","140","4.5",NA
+"u7015","oppo","t29",2012,"October","100","4.5",NA
+"flare lite 2",NA,"flare lite 2",NA,NA,NA,NA,NA
+"sm-n7505","samsung","galaxy note 3 neo",2014,"February","320","5.5","versions: 
+- samsung galaxy note 3 neo 3g n750
+- samsung galaxy note 3 neo lte+ n7505"
+"telego venus",NA,"telego venus",NA,NA,NA,NA,NA
+"tab-play369",NA,"tab-play369",NA,NA,NA,NA,NA
+"i503","asus","zenwatch 3 wi503q",2016,"Q4","230","1.39","this is not a gsm device, it will not work on any gsm network worldwide."
+"sm-a9000","samsung","galaxy a9 (2016)",2016,"January","550","6","also known as samsung galaxy a9 (2016) duos with dual-sim card slots"
+"cool max","coolpad","max",2016,"June","380","5.5",NA
+"lenovo p780 row","lenovo","p780",2013,"June","190","5",NA
+"t15","motorola","moto e dual sim (2nd gen)",2015,"March","100","4.5","also known as:
+motorola moto e (2nd gen) 3g xt1506
+motorola moto e (2nd gen) 4g xt1521"
+"lg  h961n","lg","v10",2015,"October","440","5.7","versions: h960a (europe); h900 (at&t), h901 (t-mobile), vs990 (verizon)"
+"au501",NA,"au501",NA,NA,NA,NA,NA
+"hyasong z1",NA,"hyasong z1",NA,NA,NA,NA,NA
+"i-mobile i-style 2.2",NA,"i-mobile i-style 2.2",NA,NA,"100",NA,NA
+"pacific-a58",NA,"pacific-a58",NA,NA,NA,NA,NA
+"p5","samsung","galaxy tab a 10.1 (2016)",2016,"May","290","10.1","versions: t580 (wi-fi only); t585 (lte/wi-fi)
+s-pen versions: p580 (wi-fi only); p585 (lte/wi-fi)"
+"sm-j5007","samsung","galaxy j5 prime",2016,"October","230","5",NA
+"d2302","sony","xperia m2 dual",2014,"April","180","4.8","also known as sony xperia m2 dual d2302"
+"d6633","sony","xperia z3 dual",2014,"September","510","5.2","also known as sony xperia z3 d6633"
+"mt1-u06","huawei","ascend mate",2013,"March","230","6.1",NA
+"mz-mx5","meizu","mx5",2015,"July","200","5.5",NA
+"d2004","sony","xperia e1 ii",2015,"Q3","180","4","unofficial preliminary specifications"
+"play 3",NA,"play 3",NA,NA,NA,NA,NA
+"lenovo tab 2 a8-50lc","lenovo","tab3 7",2016,"April","80","7",NA
+"lt26w","sony","xperia acro s",2012,"August","230","4.3","also known as sony lt26w"
+"delux1",NA,"delux1",NA,NA,NA,NA,NA
+"lenovo a916","lenovo","a916",2014,"November","160","5.5",NA
+"n13",NA,"n13",NA,NA,NA,NA,NA
+"infinix-x600-lte",NA,"infinix-x600-lte",NA,NA,NA,NA,NA
+"lg  e975","lg","optimus gj e975w",2013,"June","270","4.7",NA
+"spin2",NA,"spin2",NA,NA,NA,NA,NA
+"y520-u22","huawei","ascend y520",2014,"December","80","4.5",NA
+"n20","niu","pana 3g tv n206",2012,"September",NA,"2","- single sim: n216
+- dual sim: n206"
+"venue8 3840 lte","dell","xcd28",2010,"November","180","2.8",NA
+"shw-m440s",NA,"shw-m440s",NA,NA,NA,NA,NA
+"true beyond 4g",NA,"true beyond 4g",NA,NA,"70",NA,NA
+"lg  d838","lg","g pro 2",2014,"April","310","5.9","versions:
+lg g pro 2 f350
+lg g pro 2 d837 for europe
+lg g pro 2 d838 for asia"
+"typhoon-s006",NA,"typhoon-s006",NA,NA,NA,NA,NA
+"ad-551","asus","zenfone 2 deluxe ze551ml",2015,"September","500","5.5","also known as asus zenfone 2 deluxe special edition"
+"gt-i9506","samsung","i9506 galaxy s4",2013,"Q3","390","5","also known as:
+samsung galaxy s4 advance in uk
+samsung galaxy s4 with lte+
+available as samsung shv-e330s galaxy s4 lte-a for sk telecom"
+"sm-g531","samsung","galaxy tab 4 10.1 3g",2014,"June","300","10.1","tablet with support for gsm voice communication, sms, and mms.
+also known as samsung t531, galaxy tab4 10.1 3g"
+"v665",NA,"v665",NA,NA,NA,NA,NA
+"gt-i9205","samsung","galaxy note5",2015,"August","530","5.7","versions: n920t (t-mobile); n920a (at&t); n920i (australia, new zealand, singapore, canada); n920g
+ (india)"
+"gt-p3110","samsung","galaxy tab 2 7.0 p3110",2012,"May","150","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 2 (7.0)"
+"lumia 925 like","nokia","lumia 925",2013,"June","260","4.5",NA
+"vivo v1",NA,"vivo v1",NA,NA,NA,NA,NA
+"qpad",NA,"qpad",NA,NA,NA,NA,NA
+"lenovo s820 row","lenovo","s820",2013,"May","230","4.7",NA
+"sm-t2397","samsung","u450 doubletake",2009,"July","50","2.1","for verizon and alltel
+also known as samsung intensity"
+"hurricane-c6",NA,"hurricane-c6",NA,NA,NA,NA,NA
+"lenovo a390 row","lenovo","a3900",2015,"August","70","5","preliminary specifications"
+"i-mobile iq 510 dtv",NA,"i-mobile iq 510 dtv",NA,NA,"100",NA,NA
+"android","samsung","galaxy core prime",2014,"November","150","4.5","available as samsung galaxy core prime value edition g361 with android v5.1
+also known as samsung galaxy win 2 duos tv g360bt for brazil; samsung galaxy core prime duos with dual-sim card slots"
+"a900","celkon","a900",2012,"November","120","5",NA
+"htc d816x","htc","desire x",2012,"October","190","4","available as htc desire x dual sim with dual-sim card slots"
+"hurricane-a8",NA,"hurricane-a8",NA,NA,NA,NA,NA
+"i-mobile iq6.3a",NA,"i-mobile iq6.3a",NA,NA,"100",NA,NA
+"selfy",NA,"selfy",NA,NA,NA,NA,NA
+"gt-i9515","samsung","i9505 galaxy s4",2013,"April","330","5","also known as:
+samsung galaxy s4 value edition i9515
+samsung sgh-i337 for at&t
+samsung i9505g galaxy s4 google play edition"
+"n12","samsung","m8910 pixon12",2009,"August","240","3.1",NA
+"au401",NA,"au401",NA,NA,NA,NA,NA
+"d5103","sony","xperia t",2012,"September","230","4.55","also known as sony lt30p; the bond phone for o2 uk"
+"sm-t235","samsung","galaxy tab 4 7.0 lte",2014,"May","280","7","tablet with support for gsm voice communication, sms, and mms
+also known as samsung t235, galaxy tab4 7.0 lte"
+"c2004","sony","xperia m",2013,"August","130","4","also known as sony c1904, c1905, c2004, c2005; sony xperia m dual with dual-sim card slots"
+"e6533","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"i-mobile iq 9.2a",NA,"i-mobile iq 9.2a",NA,NA,"100",NA,NA
+"lumia 820 like","nokia","lumia 820",2012,"November","170","4.3",NA
+"t7","qmobile","noir lt750",2016,"June",NA,"5",NA
+"d2005","sony","xperia e1 ii",2015,"Q3","180","4","unofficial preliminary specifications"
+"i-mobile iq1-1a",NA,"i-mobile iq1-1a",NA,NA,"100",NA,NA
+"k015","asus","memo pad 8 me581cl",2014,"Q3","240","8",NA
+"lg  h860","lg","g5",2016,"April","430","5.3","versions: h850 (europe); lg g5 speed h858 (taiwan); vs987 (verizon); h820 (at&t); ls992 (sprint); h830 (t-mobile); us992 (us cellular); vodafone
+also known as lg g5 dual h860n with dual-sim card slots"
+"nex slam5",NA,"nex slam5",NA,NA,NA,NA,NA
+"i552mango",NA,"i552mango",NA,NA,NA,NA,NA
+"lenovo k50-t5","lenovo","golden warrior note 8",2014,"December","160","6","also known as lenovo a936"
+"ad-571",NA,"ad-571",NA,NA,NA,NA,NA
+"nex 304",NA,"nex 304",NA,NA,NA,NA,NA
+"shv-e210k","samsung","galaxy tab 3 7.0 wifi",2013,"July","140","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 3 7.0 p3210, samsung t210"
+"wise3",NA,"wise3",NA,NA,NA,NA,NA
+"mp10-30a a8",NA,"mp10-30a a8",NA,NA,NA,NA,NA
+"ep5","htc","tytn ii",2007,"July","140","2.8","htc kaiser platform. full htc platforms guide"
+"shv-e300k","samsung","z3",2015,"October","110","5","versions: z300h/dd (india)"
+"nx511j",NA,"nx511j",NA,NA,NA,NA,NA
+"d2305","sony","d 2403",2015,"Q3","200","4.4","released as sony xperia m2 aqua"
+"smart3.5",NA,"smart3.5",NA,NA,"70",NA,NA
+"nex start8plus",NA,"nex start8plus",NA,NA,NA,NA,NA
+"alcatel one touch 7042d","alcatel","one touch snap",2013,"June",NA,"4.5","alcatel one touch snap dual sim with dual-sim card slots"
+"i551","samsung","galaxy 551",2010,"Q4","90","3.2","also known as samsung i5510, samsung callisto"
+"vfa000f",NA,"vfa000f",NA,NA,NA,NA,NA
+"b1-810","acer","iconia tab a1-810",2013,"May","120","7.9","tablet with no support for gsm voice communication, sms, and mms"
+"iphone os 5","apple","watch sport 42mm",2015,"April","400","1.65","- compatible with apple iphone 5 (or newer)"
+"sm-n750","samsung","galaxy note 3 neo duos",2014,"February","410","5.5","also known as: 
+- samsung galaxy note 3 neo dual sim n7502"
+"twz a99",NA,"twz a99",NA,NA,NA,NA,NA
+"twz qq1",NA,"twz qq1",NA,NA,NA,NA,NA
+"v5a-5.0",NA,"v5a-5.0",NA,NA,NA,NA,NA
+"x-cite-candy",NA,"x-cite-candy",NA,NA,NA,NA,NA
+"c1505","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"e7","samsung","galaxy note7 (usa)",2016,"August","760","5.7","versions: n930v (verizon); n930a (at&t); n930p (sprint); n930t (t-mobile), n930r4 (us cellular); n930w8 (north america)
+available in china with 128 gb storage and 6 gb ram"
+"zte a2016",NA,"zte a2016",NA,NA,"70",NA,NA
+"a8","samsung","galaxy a8 (2016)",2016,"October",NA,"5.7","also known as samsung galaxy a8 duos (2016) with dual-sim card slots"
+"c5303","sony","xperia sp",2013,"April","180","4.6","also known as sony xperia sp hspa c5302, sony xperia sp lte c5303, sony xperia sp lte c5306"
+"jfone omega dtv501",NA,"jfone omega dtv501",NA,NA,NA,NA,NA
+"redmi 3s",NA,"redmi 3s",NA,NA,NA,NA,NA
+"x210","lg","k7",2016,"February","110","5","versions: x210 (europe); x210ds (russia); ms330 (metropcs); lg tribute 5 ls675 (boost mobile)
+also known as lg k7 dual sim with dual-sim card slots"
+"lg  e975k","lg","optimus gj e975w",2013,"June","270","4.7",NA
+"md236zp",NA,"md236zp",NA,NA,NA,NA,NA
+"r8111",NA,"r8111",NA,NA,NA,NA,NA
+"i-mobile iq1.2a",NA,"i-mobile iq1.2a",NA,NA,"100",NA,NA
+"lumia 950 xl","microsoft","lumia 950 xl dual sim",2015,"December","390","5.7",NA
+"smart 3.5 v2.2 for 2.0.3",NA,"smart 3.5 v2.2 for 2.0.3",NA,NA,"70",NA,NA
+"hyasong x1",NA,"hyasong x1",NA,NA,NA,NA,NA
+"mediapad 7 youth 2",NA,"mediapad 7 youth 2",NA,NA,NA,NA,NA
+"infinix-x551",NA,"infinix-x551",NA,NA,NA,NA,NA
+"lenovo a850+","lenovo","a850+",2014,"April","160","5.5","also known as lenovo a850 plus"
+"i555",NA,"i555",NA,NA,NA,NA,NA
+"play 1","motorola","moto x play dual sim",2015,"August","320","5.5",NA
+"e5","sony","xperia e5",2016,"June","200","5",NA
+"mi 4i",NA,"mi 4i",NA,NA,NA,NA,NA
+"sm-n930","samsung","galaxy note7 (usa)",2016,"August","760","5.7","versions: n930v (verizon); n930a (at&t); n930p (sprint); n930t (t-mobile), n930r4 (us cellular); n930w8 (north america)
+available in china with 128 gb storage and 6 gb ram"
+"letv x500","leeco","le 1s",2016,"February","210","5.5","also known as leeco le 1s eco"
+"sm-p555","samsung","s5550 shark 2",2010,"March","130","2.2",NA
+"c2005","sony","xperia m",2013,"August","130","4","also known as sony c1904, c1905, c2004, c2005; sony xperia m dual with dual-sim card slots"
+"lenovo tab s8-50lc","lenovo","tab3 7",2016,"April","80","7",NA
+"s510","posh","icon s510",2015,"October",NA,"5",""
+"e6553","sony","xperia z3+",2015,"June","340","5.2","also known as sony xperia z3 plus, xperia z4, sony e6553"
+"htc d620h","htc","desire 620",2014,"December","180","5","also known as htc desire 620 dual sim with dual-sim card slots"
+"pacific","samsung","galaxy note 4",2014,"October","440","5.7","versions: n910f (europe); n910k/n910l/n910s (korea); n910c (asia, europe, south america); n910fd (united arab emirates); n910fq (turkey); n910h (asia-pacific); n910g (singapore, india, australia); n910u (hong kong, taiwan, australia, new zealand, chile); n910w8 (north america)"
+"c1904","sony","xperia m",2013,"August","130","4","also known as sony c1904, c1905, c2004, c2005; sony xperia m dual with dual-sim card slots"
+"lg  p768","lg","optimus l9 p760",2012,"November","170","4.7","versions:
+lg optimus l9 p768 for mea, america and some asian regions with 8 mp camera
+lg optimus l9 p765 for india"
+"v11","motorola","v1100",2007,"March","80",NA,"for vodafone"
+"zte blade l3",NA,"zte blade l3",NA,NA,"70",NA,NA
+"smart 3.5",NA,"smart 3.5",NA,NA,"70",NA,NA
+"lumia 625 like","nokia","lumia 625",2013,"August","160","4.7",NA
+"le x820","leeco","le 2 pro",2016,"April","260","5.5",NA
+"a-204","toshiba","thrive 7",2011,"December","250","7","also known as toshiba thrive 7 inch, toshiba thrive 7"""""""" tablet"
+"lumia 430 dual sim","microsoft","lumia 430 dual sim",2015,"May","70","4",NA
+"htc one s","htc","one s",2012,"April","220","4.3","also available as htc one s special edition in white color and 64 gb internal memory"
+"s803upgrade",NA,"s803upgrade",NA,NA,NA,NA,NA
+"t200","toshiba","excite at200",2012,"January","530","10.1","this is not a gsm device, it will not work on any gsm network worldwide."
+"sapphire2",NA,"sapphire2",NA,NA,NA,NA,NA
+"lady top",NA,"lady top",NA,NA,NA,NA,NA
+"a55mini",NA,"a55mini",NA,NA,NA,NA,NA
+"asus x009d",NA,"asus x009d",NA,NA,NA,NA,NA
+"herricane-n5",NA,"herricane-n5",NA,NA,NA,NA,NA
+"lg  p880","lg","optimus 4x hd p880",2012,"June","220","4.7",NA
+"s808 touch","lenovo","s880",2012,"September","280","5",NA
+"sm-g906","samsung","galaxy s5 lte-a g906s",2014,"July","550","5.1","for korea
+also known as samsung galaxy s5 lte-a g906s"
+"v662",NA,"v662",NA,NA,NA,NA,NA
+"a88","lenovo","a880",2014,"January","130","6",NA
+"ad-558",NA,"ad-558",NA,NA,NA,NA,NA
+"au451",NA,"au451",NA,NA,NA,NA,NA
+"s510+","posh","icon s510",2015,"October",NA,"5",""
+"s810",NA,"s810",NA,NA,NA,NA,NA
+"sm-t815","samsung","galaxy tab s2 9.7",2015,"September","520","9.7","versions (2016): t813n (wi-fi); t819n (3g/lte)
+versions (2015): t810 (wi-fi); t815 (3g/lte)"
+"sgh-i337","samsung","i9505 galaxy s4",2013,"April","330","5","also known as:
+samsung galaxy s4 value edition i9515
+samsung sgh-i337 for at&t
+samsung i9505g galaxy s4 google play edition"
+"shv-e330l","samsung","galaxy tab 4 8.0",2014,"June","270","8","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung t330, galaxy tab4 8.0 wi-fi"
+"lg  h815","lg","g4",2015,"April","340","5.5","versions: h815 (emea), h815tr (turkey), h815t (hong kong), h815p (latam, south africa), h812 (canada), h810 (at&t), h811 (t-mobile), ls991 (sprint), vs986 (verizon), us991 (us cellular)"
+"tornado pro","allview","twin x2",2014,"August","230","5",NA
+"lenovo a889","lenovo","a880",2014,"January","130","6",NA
+"modern s7","samsung","s720i",2008,NA,NA,"2",NA
+"clever",NA,"clever",NA,NA,NA,NA,NA
+"i-405 quad core",NA,"i-405 quad core",NA,NA,NA,NA,NA
+"lg  f320s","lg","kg270",2007,"June","50",NA,NA
+"lion",NA,"lion",NA,NA,NA,NA,NA
+"alcatel onetouch 4031d",NA,"alcatel onetouch 4031d",NA,NA,NA,NA,NA
+"a452",NA,"a452",NA,NA,NA,NA,NA
+"herricane-s7",NA,"herricane-s7",NA,NA,NA,NA,NA
+"lenovo k50a40","lenovo","golden warrior note 8",2014,"December","160","6","also known as lenovo a936"
+"alcatel one touch 7040d","alcatel","ot-c700a",2007,NA,NA,"1.8",NA
+"best6580 weg l",NA,"best6580 weg l",NA,NA,NA,NA,NA
+"g1","hp","pro slate 10 ee g1",2015,"January","240","10.1","tablet with no support for gsm voice communication, sms, and mms"
+"one a2001","oneplus","2",2015,"August","300","5.5","also known as oneplus two"
+"shv-e160k","samsung","galaxy ace 2 i8160",2012,"May","130","3.8","available as samsung galaxy ace ii x s7560m for bell canada"
+"705","alcatel","x1",2016,"June","250","5","also known as alcatel x1 7053d"
+"htc m9u","htc","one m9 prime camera",2016,"May","450","5",NA
+"v625","nokia","lumia 625",2013,"August","160","4.7",NA
+"fast+","lg","x mach",2016,"September",NA,"5.5","also known as lg x fast"
+"gt-p6800","samsung","p6800 galaxy tab 7.7",2011,"December","280","7.7","tablet with support for gsm voice communication, sms, and mms"
+"lg  f460l","lg","cg180",2007,"October","40","1.5","for at&t"
+"n9","samsung","galaxy note7 (usa)",2016,"August","760","5.7","versions: n930v (verizon); n930a (at&t); n930p (sprint); n930t (t-mobile), n930r4 (us cellular); n930w8 (north america)
+available in china with 128 gb storage and 6 gb ram"
+"lg  d295","lg","l fino",2014,"September","110","4.5","versions:
+lg d290n with single-sim
+lg d295 with dual-sim"
+"mp10-30a 7 pro",NA,"mp10-30a 7 pro",NA,NA,NA,NA,NA
+"d5803","sony","xperia z3 compact",2014,"September","370","4.6","also known as sony d5803, d5833"
+"asus z00xs",NA,"asus z00xs",NA,NA,NA,NA,NA
+"i458",NA,"i458",NA,NA,NA,NA,NA
+"mz-m2","meizu","m1 note",2015,"January","130","5.5",NA
+"s803 touch","alcatel","lollipops",2007,"February",NA,"1.8",NA
+"sm-g800","samsung","galaxy s5 mini",2014,"July","220","4.5","versions: g800f (europe); g800a (at&t); g800hq (turkey); g800h (usa); g800m (latam); g800r4 (us cellular); g800y (new zealand)"
+"x-cite 5.0",NA,"x-cite 5.0",NA,NA,NA,NA,NA
+"n4",NA,"n4",NA,NA,NA,NA,NA
+"p8 plus","huawei","p8max",2015,"July","500","6.8",NA
+"ad-556",NA,"ad-556",NA,NA,NA,NA,NA
+"htc butterfly","htc","butterfly 2",2014,"September","300","5","for south asia"
+"innocent i451",NA,"innocent i451",NA,NA,NA,NA,NA
+"sm-g9006","samsung","galaxy tab pro 12.2",2014,"March","420","12.2","also known as samsung t900"
+"enjoy8",NA,"enjoy8",NA,NA,NA,NA,NA
+"h60-l04","huawei","honor 6",2014,"August","290","5","versions:
+- h60-l01 tdd lte (single sim)
+- h60-l02 fdd&tdd lte, hsdpa
+- h60-l04 fdd&tdd lte, hsdpa (single sim)
+- h60-l12 fdd lte, hsdpa, nfc
+- h60-l12 fdd lte, nfc"
+"z41","plum","axe lte",2015,"December",NA,"4","also known as plum z410"
+"htc m8x","htc","one (m8) cdma",2014,"March","440","5","also known as htc m8, all new htc one"
+"h910",NA,"h910",NA,NA,NA,NA,NA
+"m3 note","meizu","m3 note",2016,"April","180","5.5","also known as meizu blue charm note3"
+"lg  d958","lg","g flex",2013,"November","360","6","versions: d955 (europe); d958 (hong kong & asia); d959 (t-mobile); d950 (at&t); ls995 (sprint); f340 (korea)"
+"lg  h845","lg","g5 se",2016,"June","550","5.3","versions: h840 (latam); h845 (russia)
+also known as lg g5 lite"
+"phicomm c230w",NA,"phicomm c230w",NA,NA,NA,NA,NA
+"stv100-3","blackberry","priv",2015,"November","700","5.4",NA
+"y5","huawei","y5ii",2016,"June",NA,"5","also known as huawei y5 2, huawei honor 5, huawei honor play 5, huawei honor 5 play"
+"a161","lenovo","a316i",2014,"April","50","4",NA
+"alpha 3g s407",NA,"alpha 3g s407",NA,NA,NA,NA,NA
+"nex start5",NA,"nex start5",NA,NA,NA,NA,NA
+"sm-g9208","samsung","galaxy s6",2015,"April","410","5.1","curved screen version available - samsung galaxy s6 edge
+versions: g9200 (hong kong), g9208 (china), g9208/ss (china), g9209 (china), g920a (at&t), g920f (global), g920fd (pakistan, philippines), g920i (latam, singapore, india, australia), g920s (korea), g920t (t-mobile)"
+"n6 plus","motorola","rokr z6",2007,"January","90","2.1","formerly known as motorola rizr z6"
+"fast","lg","x mach",2016,"September",NA,"5.5","also known as lg x fast"
+"i-style2.1a",NA,"i-style2.1a",NA,NA,"100",NA,NA
+"luxury","vertu","aster",2014,"December","5440","4.7",NA
+"modern s2","samsung","i617 blackjack ii",2007,"October","100","2.4",NA
+"shv-e330k","samsung","galaxy tab 4 8.0",2014,"June","270","8","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung t330, galaxy tab4 8.0 wi-fi"
+"voyager2 dg310",NA,"voyager2 dg310",NA,NA,NA,NA,NA
+"ep13 virgo",NA,"ep13 virgo",NA,NA,NA,NA,NA
+"pacific-ip6","apple","iphone 6 plus",2014,"September","700","5.5",NA
+"sm-g9200","samsung","galaxy s6",2015,"April","410","5.1","curved screen version available - samsung galaxy s6 edge
+versions: g9200 (hong kong), g9208 (china), g9208/ss (china), g9209 (china), g920a (at&t), g920f (global), g920fd (pakistan, philippines), g920i (latam, singapore, india, australia), g920s (korea), g920t (t-mobile)"
+"e1 smile-e1","sony","xperia e1 ii",2015,"Q3","180","4","unofficial preliminary specifications"
+"sm-j110","samsung","galaxy j1 ace",2015,"October","140","4.3","versions: j110m (new zealand, latam); j110f (australia, africa, uae); j110g (malaysia, indonesia, singapore); j110l with no lte (brazil)
+also known as samsung galaxy j1 ace duos with dual-sim card slots; samsung galaxy j1 ace neo j111f"
+"ad-573","apple","watch sport 42mm",2015,"April","400","1.65","- compatible with apple iphone 5 (or newer)"
+"gt-i8730","samsung","galaxy express i8730",2013,"March","180","4.5",NA
+"i459",NA,"i459",NA,NA,NA,NA,NA
+"shv-e270k","samsung","e1272",2013,"Q4","50","1.77","available as samsung e1270 with single-sim card slot"
+"b706","lenovo","a706",2013,NA,"150","4.5",NA
+"itab705d",NA,"itab705d",NA,NA,NA,NA,NA
+"malata n501",NA,"malata n501",NA,NA,NA,NA,NA
+"b1-730hd","acer","iconia one 7 b1-730",2014,"June","90","7","tablet with no support for gsm voice communication, sms, and mms"
+"g610-u20","huawei","g610s",2013,"August","150","5",NA
+"i-mobile iqx slim iq 1088",NA,"i-mobile iqx slim iq 1088",NA,NA,"100",NA,NA
+"one touch 4033e","alcatel","pop c3",2014,"March","80","4","available as alcatel 4033a, 4033x
+alcatel 4033d, 4033e with dual-sim card slots"
+"lg  e420","lg","optimus l1 ii e410",2013,"April","60","3",NA
+"m9mini","htc","one m9 prime camera",2016,"May","450","5",NA
+"u7011",NA,"u7011",NA,NA,NA,NA,NA
+"b1-711","acer","iconia tab b1-a71",2013,"January","100","7","tablet with no support for gsm voice communication, sms, and mms"
+"lphone",NA,"lphone",NA,NA,NA,NA,NA
+"max pro","leeco","le 2 pro",2016,"April","260","5.5",NA
+"tsunami",NA,"tsunami",NA,NA,NA,NA,NA
+"lumia 735","nokia","lumia 735",2014,"September","220","4.7","also known as nokia lumia 735 lte"
+"null","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"sm-a300","samsung","galaxy a3 duos",2014,"December","230","4.5","versions: a300f/ds, a300g/ds, a300h/ds (3g only, no lte), a300m/ds"
+"a806","lenovo","golden warrior a8",2014,"August","150","5","versions:
+lenovo golden warrior a8 a808t for china mobile
+lenovo golden warrior a8 a806 for emea region"
+"goals 4g plus",NA,"goals 4g plus",NA,NA,NA,NA,NA
+"mz-m3 note","meizu","m1 note",2015,"January","130","5.5",NA
+"lg  f400l","lg","cg180",2007,"October","40","1.5","for at&t"
+"mx4 pro","meizu","mx4 pro",2014,"December","400","5.5",NA
+"padfone 2","asus","padfone 2",2012,"December","450","4.7",NA
+"q894","alcatel","ot-e101",2007,"February",NA,"1.3",NA
+"sm-g903","samsung","m220l galaxy neo",2011,"Q2","80","3.5","this is not a gsm device, it will not work on any gsm network worldwide."
+"tab709d-3g",NA,"tab709d-3g",NA,NA,NA,NA,NA
+"v2","lg","v20",2016,"September",NA,"5.7",NA
+"one a2003","oneplus","one",2014,"June","250","5.5",NA
+"venue 8 hspa+","dell","xcd28",2010,"November","180","2.8",NA
+"y54","huawei","ascend y540",2015,"February","110","4.5",NA
+"depression-f10",NA,"depression-f10",NA,NA,NA,NA,NA
+"s53","samsung","galaxy y plus s5303",2013,"May","120","2.8","also known as samsung gt-s5303"
+"2014811",NA,"2014811",NA,NA,NA,NA,NA
+"htc desire 600 dual sim","htc","desire 600 dual sim",2013,"June","290","4.5",NA
+"lg  f350s","lg","kg270",2007,"June","50",NA,NA
+"me173x","asus","fonepad",2013,"April","260","7","also available with a 1.6 ghz intel atom z2460 processor and 32 gb of built-in storage"
+"mf353zp",NA,"mf353zp",NA,NA,NA,NA,NA
+"sm-n9006","samsung","galaxy note pro 12.2",2014,"February","540","12.2","also known as samsung p900"
+"sm-t719","samsung","d900i",2007,NA,"90","2.1",NA
+"2014818",NA,"2014818",NA,NA,NA,NA,NA
+"lumia 650","microsoft","lumia 650",2016,"February","150","5","also known as microsoft lumia 650 dual sim with dual-sim card slots"
+"y360-u31","huawei","y360",2015,"June","90","4","also known as huawei y3"
+"ares-v5a4.7","samsung","galaxy note7 (usa)",2016,"August","760","5.7","versions: n930v (verizon); n930a (at&t); n930p (sprint); n930t (t-mobile), n930r4 (us cellular); n930w8 (north america)
+available in china with 128 gb storage and 6 gb ram"
+"d900","philips","d900",2010,"Q3",NA,"2.8","this is not a gsm device, it will not work on any gsm network worldwide."
+"e17 3g","nokia","e71",2008,"July","110","2.36","- nokia e71x for at&t"
+"t4","panasonic","t45",2015,"August","100","4.5",NA
+"tcl s700",NA,"tcl s700",NA,NA,NA,NA,NA
+"e13","philips","e133",2012,"November",NA,"2.2",""
+"fwsp-s1000",NA,"fwsp-s1000",NA,NA,NA,NA,NA
+"htc desire 728 dual sim","htc","desire 728 dual sim",2015,"November","240","5.5","available as htc desire 728g dual sim with 1.5 gb ram and no lte"
+"b1-730","acer","iconia one 7 b1-730",2014,"June","90","7","tablet with no support for gsm voice communication, sms, and mms"
+"cool","leeco","cool1 dual",2016,"August","200","5.5",NA
+"lg  f350l","lg","kg270",2007,"June","50",NA,NA
+"start11","samsung","i617 blackjack ii",2007,"October","100","2.4",NA
+"t9","samsung","galaxy tab pro 12.2",2014,"March","420","12.2","also known as samsung t900"
+"galaxy note 4","samsung","galaxy note 4 (usa)",2014,"Q4","550","5.7","versions: n910m (vodafone), n910v (verizon), n910a (at&t), n910t (t-mobile), n910p (sprint), n910r4 (us cellular)"
+"iq x ozzy",NA,"iq x ozzy",NA,NA,NA,NA,NA
+"nex slim3",NA,"nex slim3",NA,NA,NA,NA,NA
+"ty-m5","sony","xperia t2 ultra dual",2014,"March","280","6","also known as sony xperia t2 ultra dual sim d5322, xm50h"
+"x-cite-gorilla-pro",NA,"x-cite-gorilla-pro",NA,NA,NA,NA,NA
+"cyclone quad",NA,"cyclone quad",NA,NA,NA,NA,NA
+"kt07b",NA,"kt07b",NA,NA,NA,NA,NA
+"ad-557",NA,"ad-557",NA,NA,NA,NA,NA
+"a9 imax",NA,"a9 imax",NA,NA,NA,NA,NA
+"goal",NA,"goal",NA,NA,NA,NA,NA
+"sm-n9008","samsung","galaxy note pro 12.2",2014,"February","540","12.2","also known as samsung p900"
+"vpad14",NA,"vpad14",NA,NA,NA,NA,NA
+"zte t920",NA,"zte t920",NA,NA,"70",NA,NA
+"ad-559",NA,"ad-559",NA,NA,NA,NA,NA
+"f5122","sony","xperia x",2016,"May","490","5","also known as sony xperia x dual f5122 with dual-sim card slots"
+"mgt-a2",NA,"mgt-a2",NA,NA,NA,NA,NA
+"sm-910","samsung","z",2014,"Q3",NA,"4.8","also known as samsung z z910f"
+"i471 se",NA,"i471 se",NA,NA,NA,NA,NA
+"phicomm energy m+",NA,"phicomm energy m+",NA,NA,NA,NA,NA
+"pro 5","meizu","pro 5 mini",2015,"October","360","4.7","unofficial preliminary specifications"
+"stv100-1","blackberry","priv",2015,"November","700","5.4",NA
+"a480",NA,"a480",NA,NA,NA,NA,NA
+"smart 4g 4.0",NA,"smart 4g 4.0",NA,NA,"70",NA,NA
+"t13","samsung","t139",2010,"February","40","1.4","for t-mobile"
+"bright5.5+",NA,"bright5.5+",NA,NA,NA,NA,NA
+"gt200-gt200",NA,"gt200-gt200",NA,NA,NA,NA,NA
+"l18","sony","xperia m ultra",2015,"Q3",NA,"6","unofficial preliminary specifications. product image for illustrative purposes."
+"oneplus a3003","oneplus","3",2016,"June","400","5.5","also known as oneplus three"
+"vin 1","samsung","galaxy win i8550",2013,"May","170","4.7","available as samsung galaxy grand quattro; samsung galaxy win duos i8552 with dual-sim card slots"
+"v666",NA,"v666",NA,NA,NA,NA,NA
+"i-27","spice","mi-270",2011,"May","50","2.8",NA
+"l13",NA,"l13",NA,NA,NA,NA,NA
+"lenovo k920","lenovo","vibe z2 pro",2014,"September","430","6","also known as lenovo k920"
+"titans2 dg700",NA,"titans2 dg700",NA,NA,NA,NA,NA
+"tsunami-f9",NA,"tsunami-f9",NA,NA,NA,NA,NA
+"e6883","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"nex slim",NA,"nex slim",NA,NA,NA,NA,NA
+"sm-g9350","samsung","galaxy s7 edge",2016,"March","620","5.5","versions: g935 (usa); g935f (global); g935fd (southeast asia)
+also known as samsung galaxy s7 edge duos with dual-sim card slots "
+"x9015",NA,"x9015",NA,NA,NA,NA,NA
+"zte blade vec",NA,"zte blade vec",NA,NA,"70",NA,NA
+"a-pad115",NA,"a-pad115",NA,NA,NA,NA,NA
+"d8000","alcatel","one touch scribe easy",2013,"May","170","5","available as alcatel one touch scribe easy 8000d/ 8000e with dual-sim card slots"
+"ek-gc100","samsung","galaxy camera gc100",2012,"November","250","4.8","device with no support for gsm voice communication
+available as galaxy camera wi-fi gc110 without 3g/4g band support"
+"gt-s7500","samsung","galaxy ace plus s7500",2012,"February","120","3.65",NA
+"i-mobile iq 5",NA,"i-mobile iq 5",NA,NA,"100",NA,NA
+"kissme-kissme-dg580",NA,"kissme-kissme-dg580",NA,NA,NA,NA,NA
+"mgt g4-mgt g4",NA,"mgt g4-mgt g4",NA,NA,NA,NA,NA
+"tab-play009",NA,"tab-play009",NA,NA,NA,NA,NA
+"grand gogo","samsung","galaxy grand i9080",2013,"April","210","5",NA
+"i516",NA,"i516",NA,NA,NA,NA,NA
+"iphone","apple","watch series 2 38mm",2016,"September","650","1.5","- compatible with apple iphone 5 (or newer)"
+"t17","blu","zoey",2013,"August","20","1.8","t166 - single sim
+t176 - dual sim"
+"zuk z1","lenovo","zuk z1",2015,"September","320","5.5",NA
+"lenovo s856","lenovo","s856",2014,"October","210","5.5",NA
+"mi 4s",NA,"mi 4s",NA,NA,NA,NA,NA
+"i950q",NA,"i950q",NA,NA,NA,NA,NA
+"s901touch",NA,"s901touch",NA,NA,NA,NA,NA
+"a44 new","micromax","superfone punk a44",2012,"August","60","3.5",NA
+"i-mobile i-style 7.2",NA,"i-mobile i-style 7.2",NA,NA,"100",NA,NA
+"i512giass",NA,"i512giass",NA,NA,NA,NA,NA
+"lg  f320l","lg","kg270",2007,"June","50",NA,NA
+"tornado1",NA,"tornado1",NA,NA,NA,NA,NA
+"ad-555",NA,"ad-555",NA,NA,NA,NA,NA
+"e6683","sony","xperia tipo dual",2012,"September","90","3.2","also known as sony st21i2, sony st21a2"
+"ls1",NA,"ls1",NA,NA,NA,NA,NA
+"lumia 530","nokia","lumia 530",2014,"August","100","4","also known as nokia lumia 530 rm-1017"
+"nex smile3-nex smile3",NA,"nex smile3-nex smile3",NA,NA,NA,NA,NA
+"nxt-al10","huawei","t208",2008,NA,NA,"1.5",NA
+"one e1003","oneplus","x",2015,"November","270","5",NA
+"shv-e210l","samsung","galaxy tab 3 7.0 wifi",2013,"July","140","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 3 7.0 p3210, samsung t210"
+"sm-e7000","samsung","galaxy e7",2015,"February","270","5.5","versions: e7000, e7009, e700f, e700f/ds, e700h, e700h/dd, e700h/ds, e700m, e700m/ds
+also known as samsung galaxy e7 duos with dual-sim card slots"
+"2013023",NA,"2013023",NA,NA,NA,NA,NA
+"depression",NA,"depression",NA,NA,NA,NA,NA
+"iqx occo",NA,"iqx occo",NA,NA,NA,NA,NA
+"sol23",NA,"sol23",NA,NA,NA,NA,NA
+"h400","lg","gc900 viewty smart",2009,"May","100","3",NA
+"htc desire 500","htc","desire 500",2013,"September","180","4.3",NA
+"i-mobile iq 3",NA,"i-mobile iq 3",NA,NA,"100",NA,NA
+"lt22i","sony","xperia p",2012,"May","210","4","previously known as sony lt22i nypon"
+"s wellcom mi-516",NA,"s wellcom mi-516",NA,NA,NA,NA,NA
+"sm-n9100","samsung","galaxy note 4 duos",2014,"October","500","5.7","also known as samsung galaxy note4 (dual sim) n9100"
+"telego mate",NA,"telego mate",NA,NA,NA,NA,NA
+"alcatel one touch 8020d","alcatel","hero",2014,"January","370","6",NA
+"goals ais",NA,"goals ais",NA,NA,NA,NA,NA
+"hm 1s",NA,"hm 1s",NA,NA,NA,NA,NA
+"lenovo a1000m","lenovo","tab 2 a10-70",2015,"April","180","10.1","versions:
+lenovo tab 2 a10-70f wi-fi only
+lenovo tab 2 a10-70l wi-fi + 4g/3g (data only)"
+"i-mobile i-style 216",NA,"i-mobile i-style 216",NA,NA,"100",NA,NA
+"k7","lg","k7",2016,"February","110","5","versions: x210 (europe); x210ds (russia); ms330 (metropcs); lg tribute 5 ls675 (boost mobile)
+also known as lg k7 dual sim with dual-sim card slots"
+"l1","leeco","cool1 dual",2016,"August","200","5.5",NA
+"ht7",NA,"ht7",NA,NA,NA,NA,NA
+"sm-t210","samsung","galaxy tab 3 7.0 wifi",2013,"July","140","7","tablet with no support for gsm voice communication, sms, and mms
+also known as samsung galaxy tab 3 7.0 p3210, samsung t210"
+"aplus hero","alcatel","hero",2014,"January","370","6",NA
+"gt-5","samsung","galaxy tab a 10.1 (2016)",2016,"May","290","10.1","versions: t580 (wi-fi only); t585 (lte/wi-fi)
+s-pen versions: p580 (wi-fi only); p585 (lte/wi-fi)"
+"q810",NA,"q810",NA,NA,NA,NA,NA
+"ep5-ace","samsung","galaxy ace s5830i",2011,NA,"70","3.5",NA
+"htc6535lvw","htc","one m9 prime camera",2016,"May","450","5",NA
+"i-mobile i-style 2.3a",NA,"i-mobile i-style 2.3a",NA,NA,"100",NA,NA
+"l5","posh","optima lte l530",2016,"April",NA,"5",""
+"a300","samsung","galaxy a3 duos",2014,"December","230","4.5","versions: a300f/ds, a300g/ds, a300h/ds (3g only, no lte), a300m/ds"
+"grand h1","samsung","galaxy grand i9080",2013,"April","210","5",NA
+"i-mobile iq 5a",NA,"i-mobile iq 5a",NA,NA,"100",NA,NA
+"sapphire3",NA,"sapphire3",NA,NA,NA,NA,NA
+"a4","lenovo","p2",2016,"September",NA,"5.5","also known as lenovo p2 p2a42"
+"b1-a71","acer","iconia tab b1-a71",2013,"January","100","7","tablet with no support for gsm voice communication, sms, and mms"
+"lg  f500s","lg","g4c",2015,"June","160","5","also known as lg g4c h525n"
+"lt28h","sony","xperia ion hspa",2012,"June","250","4.55","also known as xperia ion lt28h"
+"panasonic p81","panasonic","p81",2014,"June","220","5.5",NA
+"sm-g350","samsung","galaxy core plus",2013,"October","150","4.3","versions:
+samsung galaxy core plus g3500
+samsung galaxy trend 3 g3502 with dual-sim card slots for china"
+"hurricane","icemobile","hurricane ii",2011,"December","","2.2",NA
+"lg  h962","lg","v10",2015,"October","440","5.7","versions: h960a (europe); h900 (at&t), h901 (t-mobile), vs990 (verizon)"
+"p9","huawei","p9 plus",2016,"May","600","5.5","versions: vie-l09 (single sim); vie-l29 (dual sim)"
+"x-cite-gorilla3",NA,"x-cite-gorilla3",NA,NA,NA,NA,NA
