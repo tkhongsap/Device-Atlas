@@ -38,24 +38,17 @@ write.csv(dta, file="techname_mobile_atlas_approx.csv", row.names = FALSE)
 dta$index <- as.numeric(row.names(dta))
 dta <- dta[order(dta$index, decreasing = TRUE),  ]
 
+# erase ' symbol from the model device
+
+
+
 mobileInfo <- dta
 
-nametowrite <- mobileInfo$model_device
-modeltowrite <- mobileInfo$model_name
-pricetowrite <- mobileInfo$release_price
-regex.model <- ""
-
-
+mobileInfo$model_device <- sub('\'.*','',mobileInfo$model_device)
 
 #like
-for (j in 1:length(nametowrite)){
-    regex.model <- paste(regex.model,paste("when lower(user_agent) like ('%",tolower(nametowrite[j]),"%')"," then '",modeltowrite[j],"' ",sep=""),sep="")
-  }
-  
-print(regex.model)
-write(regex.model, file = "sql_modelname.txt")
-
-#like
+mobileInfo <- mobileInfo[!duplicated(mobileInfo$model_device),]
+mobileInfo <- mobileInfo[!mobileInfo$release_price=="",]
 nametowrite <- mobileInfo[!is.na(mobileInfo$release_price),1]
 pricetowrite <- mobileInfo[!is.na(mobileInfo$release_price),6]
 regex.model <- ""
@@ -65,5 +58,25 @@ for (j in 1:length(nametowrite)){
 
 print(regex.model)
 write(regex.model, file = "sql_pricephone.txt")
+
+mobileInfo <- dta
+mobileInfo <- mobileInfo[!(mobileInfo$model_device==mobileInfo$model_name),]
+mobileInfo$model_device <- sub('\'.*','',mobileInfo$model_device)
+mobileInfo <- mobileInfo[!(mobileInfo$model_device=='android'|mobileInfo$model_device=='a' ),]
+mobileInfo[(mobileInfo$model_device=='a33w' ),3] <- 'oppo mirror 5 lte'
+nametowrite <- mobileInfo$model_device
+modeltowrite <- mobileInfo$model_name
+pricetowrite <- mobileInfo$release_price
+regex.model <- ""
+
+
+
+#like
+for (j in 1:length(nametowrite)){
+  regex.model <- paste(regex.model,paste("when lower(user_agent) like ('%",tolower(nametowrite[j]),"%')"," then '",modeltowrite[j],"' ",sep=""),sep="")
+}
+
+print(regex.model)
+write(regex.model, file = "sql_modelname.txt")
   
 
