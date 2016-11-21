@@ -3,7 +3,7 @@
 # Description: Matching phone technical names extracted from user agents to mobile atlas table 
 # Version:
 #   2016/10/04 RS: Initial version
-#   
+#   2016/10/13 RS: Eliminate Apple and unuseful brands from the mobile atlas table
 ####################################################################################
 
 # install.packages("data.table")
@@ -70,6 +70,8 @@ cutAlphabetSamsung <- function(model.samsung){
 dta <- fread("useragent_techname_tapad.csv", integer64 = "character",header=TRUE)
 dta <- data.frame(dta)
 
+#colnames(dta)[4] <- 'model_device_raw'
+
 dta$model_device <- sub('/.*','',dta$model_device)
 dta$model_device <- sub('applewebkit.*','',dta$model_device)
 dta$model_device <- sub('.*samsung','',dta$model_device)
@@ -78,7 +80,7 @@ dta$model_device <- gsub('lg-','lg',dta$model_device)
 dta$model_device <- gsub('lg','lg ',dta$model_device)
 dta$model_device <- gsub('oppo','oppo ',dta$model_device)
 dta$model_device <- gsub(')','',dta$model_device)
-dta$model_device <- gsub('xperia','',dta$model_device)
+#dta$model_device <- gsub('xperia','',dta$model_device)
 dta$model_device <- gsub('"','',dta$model_device)
 dta$model_device <- sub('by.*','',dta$model_dev)
 dta$model_device <- sub(';.*','',dta$model_dev)
@@ -88,7 +90,12 @@ dta <- dta[!dta$model_device==" ",]
 dta$model_device <- trim(as.character(dta$model_device))
 
 dta <- dta[!is.na(dta$model_device),]
+dta <- dta[!grepl('iphone os|ipad',dta$model_device),]
 dta <- data.frame(dta)
+
+dta<- dta[!grepl('x-citeï¼�',dta$model_device),]
+dta$model_device[grepl('zh-cn',dta$model_device)] <- 'lenovo a3300'
+
 
 dta[grepl('sm|gt',dta$model_device) & !grepl('smart',dta$model_device),2] <- sapply(dta[grepl('sm|gt',dta$model_device) & !grepl('smart',dta$model_device),2], function(x) cutAlphabetSamsung(x))
 
@@ -97,15 +104,18 @@ dta <- dta[!duplicated(dta$model_device),]
 
 
 temp = list.files(pattern="INFO.csv")
+temp <- temp[!grepl('alcatel|allview|amazon|amoi|apple|archos|at&t|benefon|benq_siemens|bird|bosch|bq|casio|cat|chea|emporia|eten|fujitsu_siemens|ericsson|garmin_asus|haier|i_mate|innostream|inq|jolla|karbonn|kyocera|maxon|mitac|mitsubishi|modu|mwg|nec|neonode|nvidia|o2|orange |palm|parla|qtek|sagem|sendo|sewon|siemens|sonim|sony_ericsson|thuraya|t_mobile|tel_me|telit|thuraya|vertu|vk_mobile|vodafone|wnd|xcute',tolower(temp))]
 brandlist <- tolower(sub('_INFO.*','',temp))
 brandlist[brandlist=="i_mobile"] <- "i-mobile"
-brandlist <- brandlist[!brandlist=="apple"] 
+
+
 
 # write a table of the information of all brands
 for (k in 1:length(temp)){
   info <- fread(temp[k], integer64 = "character",header=TRUE)
   
   info <- data.frame(info)
+  info <- info[info$SCREEN > 3,]
   info <- unique(info)
   info$DETAIL_NAME <- tolower(info$DETAIL_NAME)
   info$MODEL <- tolower(info$MODEL)
@@ -121,6 +131,8 @@ for (k in 1:length(temp)){
   }
 }
 
+
+
 info.All <- cbind(info.All,gsub(',.*','',info.All$RELEASE_TIME),trim(gsub('.*,','',info.All$RELEASE_TIME)))
 colnames(info.All)[7:8] <- c("RELEASE_YEAR","RELEASE_MONTH")
 info.All[grep("TRUE",as.character(info.All$RELEASE_YEAR)==as.character(info.All$RELEASE_MONTH)),8] <- NA
@@ -132,12 +144,9 @@ info.All$BRAND <- tolower(info.All$BRAND)
 info.All <- info.All[as.numeric(as.character(info.All$RELEASE_YEAR))>2006,]
 info.All <- info.All[,c(-3)]
 info.All <- cbind(info.All[,c(1:2,6:7)],info.All[,c(3:5)])
-
+info.All <-info.All[order(info.All$RELEASE_YEAR,decreasing = FALSE),]
 addinfo.All <- data.frame(matrix(NA, nrow = nrow(dta), ncol = 4))
 colnames(addinfo.All) <- c("YEAR","MONTH","PRICE","SCREEN")
-
-
-
 
 
 
@@ -145,7 +154,10 @@ model_device.augmented<- data.frame(matrix(NA, nrow = nrow(dta), ncol = (ncol(in
 model_device.augmented[,1] <- dta$model_device
 colnames(model_device.augmented) <- c("model_device","brand","model_name",
                                       "release_year","release_month","release_price","screensize","detail")
-for (k in (1:nrow(dta))){
+#for (k in (1:nrow(dta))){
+pb <- grep('sm-t211|sm-t116|sm-g316|sm-t715|Kgt-n5120|sm-t719|shv-t719|gt-i9205',dta$model_device)
+for (k in pb){
+  
   tryCatch({
     print(k)
     model_device <- dta$model_device[k]
@@ -298,7 +310,8 @@ for (k in (1:nrow(dta))){
     }
     
     if (is.na(addinfo.All[k,1])){ 
-      
+      model_device <- 'sm-t116'
+      model_device <- 'sm-t715'
       search.term <- paste(model_device,'+gsmarena',sep='')
       quotes <- "FALSE"
       search.url <- getGoogleURL(search.term=search.term, quotes=quotes)
@@ -310,27 +323,42 @@ for (k in (1:nrow(dta))){
       brand <- gsub('_.*','',gsub('.*.com/','',link))
       info_brand <- info.All[info.All$BRAND==brand,]
       info_brand <- info_brand[!is.na(info_brand$BRAND),]
-      model_device_cut <- gsub('-.*','',gsub('.*_','',gsub('.*.com/','',link)))
-      
+      model_device_cut <- gsub('-.*','',gsub('.*.com/','',link))
+      model_device_cut <-  gsub(paste(brand,'_',sep=''),'',model_device_cut)
+      model_device_cut <- gsub('_',' ',sub('_0','',model_device_cut))
+   
+      if (length(grep('galaxy mega',model_device_cut)>0)){
+        samsung_number <- gsub('[^0-9]','',model_device_cut) 
+        dummy <- strsplit(samsung_number,'')
+        firstnum <- unlist(dummy)[1]
+        model_device_cut <- paste(gsub('[0-9].*','',model_device_cut),firstnum,sep='') 
+      }
+      print(model_device_cut)
       for (j in 1:nrow(info_brand)){
         
         if (length(grep(model_device_cut,info_brand[j,c(2,7)][which( !is.na(info_brand[j,c(2,7)]), arr.ind=TRUE)]))>0) {
-          
+          print(j)
           addinfo.All[k,] <- info_brand[j,3:6]
           model_device.augmented[k,] <- c(model_device,info_brand[j,])
           print(model_device.augmented[k,] )
           
         }
       }
+      
+      
     }
     
     
     
   },error=function(e){}) 
+
 }
 
-write.csv(model_device.augmented, file="techname_mobile_atlas.csv", row.names = FALSE)
+test <- model_device.augmented[pb,]
 
+write.csv(model_device.augmented, file="techname_mobile_atlas.csv", row.names = FALSE)
+write.csv(model_device.augmented[!is.na(model_device.augmented$brand),], file="techname_mobile_atlas_filled.csv", row.names = FALSE)
+write.csv(model_device.augmented[is.na(model_device.augmented$brand),], file="techname_mobile_atlas_unfilled.csv", row.names = FALSE)
 
 # 
 # model_device.augmented$X1 <- trim(model_device.augmented$X1)
